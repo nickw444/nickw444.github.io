@@ -10,4 +10,8 @@ categories:
   - Electronics
   - Programming
   - Quadcopter
+
+youtube: XfAt6hNV8XM
 ---
+
+{% include youtube.html %}

@@ -14,4 +14,4 @@ paginate_path: "/:num"
 permalink:     '/post/:year/:title/'
 # Build settings
 markdown: kramdown
-include: ['_pages', '_categories']
+include: ['_pages']

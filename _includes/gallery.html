@@ -1,0 +1,18 @@
+<div class="row">
+{% for image in page.images %}
+        <div class="col-xs-12 col-sm-6">
+            {% if image.image %}
+                <a href="{{ image.image }}" target="_blank" class="thumbnail">
+                    <img src="{{ image.image }}" class="img-responsive" />
+                    <div class="caption">
+                        {{ image.caption }}
+                    </div>
+                </a>
+            {% else %}
+                <a href="{{ image }}" target="_blank" class="thumbnail">
+                    <img src="{{ image }}" class="img-responsive" />
+                </a>
+            {% endif %}
+        </div>
+{% endfor %}
+</div>

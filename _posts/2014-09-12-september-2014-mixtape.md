@@ -15,11 +15,15 @@ dsq_thread_id:
 categories:
   - Blog
   - Music
+
+song: http://nickwhyte.com/wordpress/wp-content/uploads/2014/09/September%202014%20Mix.mp3?_=6
 ---
-> A musical adventure through progressive house, deep house, dance and indie dance.
 
-[Download Here (Right click, save link/target as)][1]<audio class="wp-audio-shortcode" id="audio-1501-6" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/09/September%202014%20Mix.mp3?_=6" />
+A musical adventure through progressive house, deep house, dance and indie dance.
 
-<http://nickwhyte.com/wordpress/wp-content/uploads/2014/09/September%202014%20Mix.mp3></audio>
+[Download Here (Right click, save link/target as)][1] 
+
+{% include stream_song.html %}
 
  [1]: http://nickwhyte.com/wordpress/wp-content/uploads/2014/09/September%202014%20Mix.mp3
+

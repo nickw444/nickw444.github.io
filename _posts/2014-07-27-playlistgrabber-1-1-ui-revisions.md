@@ -2,7 +2,7 @@
 title: PlaylistGrabber 1.1 (UI Revisions)
 author: nickw
 layout: post
-permalink: /2014/07/26/playlistgrabber-1-1-ui-revisions/
+permalink: /2014/07/27/playlistgrabber-1-1-ui-revisions/
 dsq_thread_id:
   - 2875215405
 categories:
@@ -33,13 +33,6 @@ categories:
   * Delete songs when a playlist is de-selected. This could prove quite tricky
 
 I&#8217;m pretty happy with what I have achieved over the few hours I&#8217;ve worked on this project. And after all, I&#8217;ve learnt how to program for Mac OSX.
-
-#### Help Me Out
-
-I am currently a student, studying Computer Science at the University of New South Wales, Australia. If you like this app, please consider donating &#8211; The more donations, the more incentive for me to bring new features. 
-
-<div style="margin-top:-180px;">
-</div>
 
 #### Download
 
