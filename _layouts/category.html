@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% for page in site.categories[page.category_name] %}
+    {% include post.html %}
+{% else %}
+<br/>
+<div class="post-content text-center">
+    <p>It looks like there's nothing here yet :(</p>
+</div>
+{% endfor %}

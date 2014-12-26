@@ -14,6 +14,8 @@
                   <li class="node-link {% if page.url == node.url %}current_page_item{% endif %}" ><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
                 {% endif %}
               {% endfor %}
+              <li><a target="_blank" href="http://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+              <li><a target="_blank" href="http://github.com/{{ site.github_username }}">Github</a></li>
           </ul>
       </div>
   </div>
