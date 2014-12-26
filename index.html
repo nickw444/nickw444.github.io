@@ -2,10 +2,24 @@
 layout: default
 title: Blog
 extra_title: Nick Whyte | Programming and Exciting Things
-permalink: /
 menu_order: 3
 ---
-{% for page in site.posts %}
-  {% include post.html %}
 
+
+{% for page in paginator.posts %}
+  {% include post.html %}
 {% endfor %}
+
+<div class="pagination text-center">
+{% if paginator.total_pages > 1 %}
+    {% if paginator.previous_page_path %}
+        <a href="{{ paginator.previous_page_path }}">&laquo; Previous Page</a>
+    {% endif %}
+    {% if paginator.previous_page_path and paginator.next_page_path %}
+    |
+    {% endif %}
+    {% if paginator.next_page_path %}
+        <a href="{{ paginator.next_page_path }}">Next Page &raquo;</a>
+    {% endif %}
+{% endif %}
+</div>

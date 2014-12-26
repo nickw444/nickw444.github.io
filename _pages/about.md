@@ -4,6 +4,7 @@ hidden_title: true
 title: About Me
 permalink: /about/
 menu_order: 1
+menu: default
 ---
 
 ### Hey

@@ -4,6 +4,7 @@ hidden_title: true
 title: Projects
 permalink: /projects/
 menu_order: 2
+menu: default
 ---
 ### My works
 
