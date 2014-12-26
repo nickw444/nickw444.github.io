@@ -1,0 +1,17 @@
+<div class="post">
+    <h1 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+    <h2 class="post-meta">
+        <abbr class="published" title="{{ page.date | date: "%Y-%m-%dT%H:%M" }}">
+            {{ page.date | date: "%B %-d, %Y" }}
+        </abbr>
+        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+    </h2>
+    <div class="post-content">
+        {% if content %}
+            {{ content }}
+        {% else %}
+            {{ page.content }}
+        {% endif %}
+    </div>
+
+</div>
