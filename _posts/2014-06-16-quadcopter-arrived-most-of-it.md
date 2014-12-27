@@ -11,12 +11,13 @@ categories:
 ---
 Today a majority of the electronic components of my quadcopter arrived. I received an email from the online shop saying that my order had been dispatched today and they included a tracking number. Upon checking the tracking, it turned out it had actually been posted on the 13th and it was &#8220;Delivered&#8221;. Being curious, I went downstairs, and there it was, a package on my door step. Excellent.
 
-<div id="attachment_1408" style="width: 223px" class="wp-caption alignleft">
-  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0002.jpg"><img class="wp-image-1408" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" /></a>
-  
-  <p class="wp-caption-text">
-    The items packed in the box
-  </p>
+<div class="pull-left">
+  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0002.jpg" class="thumbnail">
+    <img class="wp-image-1408" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" />
+    <p class="caption text-center">
+      The items packed in the box
+    </p>
+  </a>
 </div>
 
 So it was a given I was going to have the rest of the afternoon off study &#8211; now that I had a new fun thing to play with.
