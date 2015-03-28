@@ -8,13 +8,13 @@ dsq_thread_id:
 categories:
   - Blog
 images:
-  - { image: 'http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/2014-06-22-13.46.51.jpg',
+  - { image: 'http://cdn.nickwhyte.com/static/2014/06/2014-06-22-13.46.51.jpg',
       caption: 'Cardboard stopping the bottom of the RPi shorting. Featuring Electrical Tape Mounting'
     }
-  - { image: 'http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/2014-06-22-13.46.57.jpg',
+  - { image: 'http://cdn.nickwhyte.com/static/2014/06/2014-06-22-13.46.57.jpg',
       caption: 'Electrical Tape Mounting FTW'
     }
-  - { image: 'http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/2014-06-22-13.47.06.jpg',
+  - { image: 'http://cdn.nickwhyte.com/static/2014/06/2014-06-22-13.47.06.jpg',
       caption: 'Need to find a safer place to house the battery. These things explode.'
     }
 youtube: lVxbO1KiBK8

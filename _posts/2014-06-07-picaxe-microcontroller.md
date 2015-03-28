@@ -20,7 +20,7 @@ Now, whilst writing the emulator, I remembered I had a picaxe micro controller s
 
 I hooked up the picaxe on a breadboard, and wrote a basic program:
 
-[<img class="aligncenter size-full wp-image-1350" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/Screen-Shot-2014-06-08-at-12.08.34-am.png" alt="Screen Shot 2014-06-08 at 12.08.34 am" width="520" height="199" />][1]
+[<img class="aligncenter size-full wp-image-1350" src="http://cdn.nickwhyte.com/static/2014/06/Screen-Shot-2014-06-08-at-12.08.34-am.png" alt="Screen Shot 2014-06-08 at 12.08.34 am" width="520" height="199" />][1]
 
 <!--more-->
 
@@ -35,4 +35,4 @@ Quite basic. However it&#8217;s made me surprisingly happy. I can control a LED 
 <div id="gallery-1349-8-slideshow"  class="slideshow-window jetpack-slideshow slideshow-" data-width="984" data-height="410" data-trans="fade" data-gallery="[{&quot;src&quot;:&quot;http:\/\/nickwhyte.com\/wordpress\/wp-content\/uploads\/2014\/06\/IMG_14371.jpg&quot;,&quot;id&quot;:&quot;1358&quot;,&quot;caption&quot;:&quot;The Serial Stream&quot;},{&quot;src&quot;:&quot;http:\/\/nickwhyte.com\/wordpress\/wp-content\/uploads\/2014\/06\/IMG_14391.jpg&quot;,&quot;id&quot;:&quot;1357&quot;,&quot;caption&quot;:&quot;The Hardware&quot;}]">
 </div>
 
- [1]: http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/Screen-Shot-2014-06-08-at-12.08.34-am.png
+ [1]: http://cdn.nickwhyte.com/static/2014/06/Screen-Shot-2014-06-08-at-12.08.34-am.png

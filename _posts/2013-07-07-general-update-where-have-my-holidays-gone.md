@@ -14,7 +14,7 @@ This morning I played with extending [JASidePanel][1] creating an easy way to a
 
 I&#8217;ve been meaning to upload and properly release NWManagedContext/ManagedObject  for a while now, I&#8217;ve had no time though. I&#8217;m going to drop the REST implementation and simply keep it as an object management library with a DB. I&#8217;m currently using my DBMS on my avocado hosting website on [nickwhyte.com&#8230;][2].
 
-<img class="alignright size-thumbnail wp-image-1140" alt="3c379942e61d11e2b3da22000aa804fa_7" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/07/3c379942e61d11e2b3da22000aa804fa_7-150x150.jpg" width="150" height="150" />
+<img class="alignright size-thumbnail wp-image-1140" alt="3c379942e61d11e2b3da22000aa804fa_7" src="http://cdn.nickwhyte.com/static/2013/07/3c379942e61d11e2b3da22000aa804fa_7-150x150.jpg" width="150" height="150" />
 
 As for my avocado, I&#8217;ve now planted it and it&#8217;s living in a pot! Here&#8217;s the new pot, followed by the time lapse video of its growth:
 

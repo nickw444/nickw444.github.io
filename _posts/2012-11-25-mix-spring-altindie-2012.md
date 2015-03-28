@@ -6,7 +6,7 @@ permalink: /2012/11/25/mix-spring-altindie-2012/
 enclosure:
   - |
     |
-        http://nickwhyte.com/wordpress/wp-content/uploads/2012/11/November_Alt_Mix.mp3
+        http://cdn.nickwhyte.com/static/2012/11/November_Alt_Mix.mp3
         46181807
         audio/mpeg
         
@@ -20,14 +20,11 @@ tags:
   - mixtape
   - music
   - remix
+song: http://cdn.nickwhyte.com/static/2012/11/November_Alt_Mix.mp3
 ---
 <span style="text-decoration: underline;">Stream</span>
 
-<!--[if lt IE 9]><![endif]--><audio class="wp-audio-shortcode" id="audio-979-1" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://nickwhyte.com/wordpress/wp-content/uploads/2012/11/November\_Alt\_Mix.mp3?_=1" />
-
-[http://nickwhyte.com/wordpress/wp-content/uploads/2012/11/November\_Alt\_Mix.mp3][1]</audio> 
-
-
+{% include stream_song.html %}
 
 <span style="text-decoration: underline;">Tracklist</span>
 
@@ -46,4 +43,4 @@ tags:
   * [Direct Download][1] (Right click, save target/link as)
   * <a href="http://www.multiupload.nl/8XAWE6TPGW" target="_blank">Mirror</a>
 
- [1]: http://nickwhyte.com/wordpress/wp-content/uploads/2012/11/November_Alt_Mix.mp3
+ [1]: http://cdn.nickwhyte.com/static/2012/11/November_Alt_Mix.mp3

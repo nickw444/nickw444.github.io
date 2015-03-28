@@ -6,7 +6,7 @@ permalink: /2014/09/12/september-2014-mixtape/
 enclosure:
   - |
     |
-        http://nickwhyte.com/wordpress/wp-content/uploads/2014/09/September%202014%20Mix.mp3
+        http://cdn.nickwhyte.com/static/2014/09/September%202014%20Mix.mp3
         194086713
         audio/mpeg
         
@@ -16,7 +16,7 @@ categories:
   - Blog
   - Music
 
-song: http://nickwhyte.com/wordpress/wp-content/uploads/2014/09/September%202014%20Mix.mp3?_=6
+song: http://cdn.nickwhyte.com/static/2014/09/September%202014%20Mix.mp3?_=6
 ---
 
 A musical adventure through progressive house, deep house, dance and indie dance.
@@ -25,5 +25,5 @@ A musical adventure through progressive house, deep house, dance and indie dance
 
 {% include stream_song.html %}
 
- [1]: http://nickwhyte.com/wordpress/wp-content/uploads/2014/09/September%202014%20Mix.mp3
+ [1]: http://cdn.nickwhyte.com/static/2014/09/September%202014%20Mix.mp3
 

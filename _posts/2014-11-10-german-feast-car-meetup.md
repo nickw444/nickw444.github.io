@@ -9,10 +9,10 @@ categories:
   - Blog
   - Photos
 images:
-  - http://nickwhyte.com/wordpress/wp-content/uploads/2014/11/IMG_9075.jpg
-  - http://nickwhyte.com/wordpress/wp-content/uploads/2014/11/IMG_9063.jpg
-  - http://nickwhyte.com/wordpress/wp-content/uploads/2014/11/IMG_9062.jpg
-  - http://nickwhyte.com/wordpress/wp-content/uploads/2014/11/IMG_9025.jpg
+  - http://cdn.nickwhyte.com/static/2014/11/IMG_9075.jpg
+  - http://cdn.nickwhyte.com/static/2014/11/IMG_9063.jpg
+  - http://cdn.nickwhyte.com/static/2014/11/IMG_9062.jpg
+  - http://cdn.nickwhyte.com/static/2014/11/IMG_9025.jpg
 image_col: 4
 ---
 

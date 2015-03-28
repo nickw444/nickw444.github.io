@@ -15,13 +15,13 @@ I set out to calculate this elongation; however the results weren&#8217;t great,
 <div id='gallery-14' class='gallery galleryid-1292 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://nickwhyte.com/2013/10/21/determining-movement-of-a-distant-object-on-a-small-sensor/img_1849/'><img width="250" height="250" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1849-250x250.jpg" class="attachment-thumbnail" alt="IMG_1849" /></a>
+      <a href='http://nickwhyte.com/2013/10/21/determining-movement-of-a-distant-object-on-a-small-sensor/img_1849/'><img width="250" height="250" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1849-250x250.jpg" class="attachment-thumbnail" alt="IMG_1849" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://nickwhyte.com/2013/10/21/determining-movement-of-a-distant-object-on-a-small-sensor/img_1850/'><img width="250" height="250" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1850-250x250.jpg" class="attachment-thumbnail" alt="IMG_1850" /></a>
+      <a href='http://nickwhyte.com/2013/10/21/determining-movement-of-a-distant-object-on-a-small-sensor/img_1850/'><img width="250" height="250" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1850-250x250.jpg" class="attachment-thumbnail" alt="IMG_1850" /></a>
     </dt>
   </dl>
   

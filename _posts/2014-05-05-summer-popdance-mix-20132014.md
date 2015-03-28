@@ -6,7 +6,7 @@ permalink: /2014/05/05/summer-popdance-mix-20132014/
 enclosure:
   - |
     |
-        http://nickwhyte.com/wordpress/wp-content/uploads/2014/05/Summer_Mix_20132014.mp3
+        http://cdn.nickwhyte.com/static/2014/05/Summer_Mix_20132014.mp3
         76804227
         audio/mpeg
         
@@ -15,14 +15,13 @@ dsq_thread_id:
 categories:
   - Blog
   - Music
+
+song: http://cdn.nickwhyte.com/static/2014/05/Summer_Mix_20132014.mp3
 ---
-<span style="text-decoration: underline;">Stream</span><audio class="wp-audio-shortcode" id="audio-1331-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/05/Summer\_Mix\_20132014.mp3?_=4" />
-
-[http://nickwhyte.com/wordpress/wp-content/uploads/2014/05/Summer\_Mix\_20132014.mp3][1]</audio> 
+<span style="text-decoration: underline;">Stream</span><audio class="wp-audio-shortcode" id="audio-1331-4" preload="none" style="width: 100%; visibility: hidden;" controls="controls"><source type="audio/mpeg" src="http://cdn.nickwhyte.com/static/2014/05/Summer\_Mix\_20132014.mp3?_=4" />
 
 
-
-
+{% include stream_song.html %}
 
 <div style="clear: both; height: 3px; width: 652px;">
 </div>
@@ -38,4 +37,4 @@ categories:
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: http://nickwhyte.com/wordpress/wp-content/uploads/2014/05/Summer_Mix_20132014.mp3
+ [1]: http://cdn.nickwhyte.com/static/2014/05/Summer_Mix_20132014.mp3

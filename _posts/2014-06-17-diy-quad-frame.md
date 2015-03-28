@@ -10,9 +10,9 @@ categories:
   - Electronics
 
 images: 
-  - {image: 'http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0010.jpg',
+  - {image: 'http://cdn.nickwhyte.com/static/2014/06/IMG_0010.jpg',
       caption: 'Assembled onto the new frame!'}
-  - { image: 'http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0014.jpg',
+  - { image: 'http://cdn.nickwhyte.com/static/2014/06/IMG_0014.jpg',
       caption: 'Close up of the material i&#8217;m using'}
 ---
 I just ordered a cheap $30 56g lightweight frame off ebay, however, I need something in the mean time to get set up with. Instead of using the ugly and heavy (~250g) wooden frame, I have built this frame from some spare materials I found in the garage.

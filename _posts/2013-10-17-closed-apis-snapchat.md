@@ -9,7 +9,7 @@ categories:
   - Blog
   - Programming
 ---
-<img class="alignright" alt="" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/snapchat.jpg" width="160" height="160" />[Snapchat][1]. It&#8217;s a big craze. The point: To send photo&#8217;s that self destruct after being viewed. However; there are hacks as well as entire apps which can allow the saving of images without the sender being notified. Awesome. Hardly.
+<img class="alignright" alt="" src="http://cdn.nickwhyte.com/static/2013/10/snapchat.jpg" width="160" height="160" />[Snapchat][1]. It&#8217;s a big craze. The point: To send photo&#8217;s that self destruct after being viewed. However; there are hacks as well as entire apps which can allow the saving of images without the sender being notified. Awesome. Hardly.
 
 I have spent the last 2 hours finding an efficient way to reverse engineer the protocols and data being passed between the SnapChat client and the SnapChat server, in hope that I&#8217;d gain some more knowledge about how snaps are encrypted/transmitted/received by the devices. Unfortunately I have been unable to find a way to read the data in a raw format. I&#8217;ve tried both packet sniffing via [WireShark][2], various HTTP Proxies, as well as my own Python creation. Nothing.
 

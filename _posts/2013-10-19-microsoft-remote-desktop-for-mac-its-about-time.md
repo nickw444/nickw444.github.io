@@ -13,7 +13,7 @@ categories:
 </p>
 
 <div id="attachment_1253" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/Screen-Shot-2013-10-19-at-7.12.36-PM.png"><img class="size-medium wp-image-1253 " alt="Screen Shot 2013-10-19 at 7.12.36 PM" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/Screen-Shot-2013-10-19-at-7.12.36-PM-300x100.png" width="300" height="100" /></a>
+  <a href="http://cdn.nickwhyte.com/static/2013/10/Screen-Shot-2013-10-19-at-7.12.36-PM.png"><img class="size-medium wp-image-1253 " alt="Screen Shot 2013-10-19 at 7.12.36 PM" src="http://cdn.nickwhyte.com/static/2013/10/Screen-Shot-2013-10-19-at-7.12.36-PM-300x100.png" width="300" height="100" /></a>
   
   <p class="wp-caption-text">
     The old, Remote Desktop Connection for Mac
@@ -25,7 +25,7 @@ categories:
 </p>
 
 <div id="attachment_1254" style="width: 216px" class="wp-caption aligncenter">
-  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/Screen-Shot-2013-10-19-at-7.15.50-PM.png"><img class="size-medium wp-image-1254 " alt="Screen Shot 2013-10-19 at 7.15.50 PM" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/Screen-Shot-2013-10-19-at-7.15.50-PM-206x300.png" width="206" height="300" /></a>
+  <a href="http://cdn.nickwhyte.com/static/2013/10/Screen-Shot-2013-10-19-at-7.15.50-PM.png"><img class="size-medium wp-image-1254 " alt="Screen Shot 2013-10-19 at 7.15.50 PM" src="http://cdn.nickwhyte.com/static/2013/10/Screen-Shot-2013-10-19-at-7.15.50-PM-206x300.png" width="206" height="300" /></a>
   
   <p class="wp-caption-text">
     Saved session list
@@ -33,7 +33,7 @@ categories:
 </div>
 
 <div id="attachment_1255" style="width: 310px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-1255 " alt="Screen Shot 2013-10-19 at 7.17.03 PM" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/Screen-Shot-2013-10-19-at-7.17.03-PM-300x172.png" width="300" height="172" />
+  <img class="size-medium wp-image-1255 " alt="Screen Shot 2013-10-19 at 7.17.03 PM" src="http://cdn.nickwhyte.com/static/2013/10/Screen-Shot-2013-10-19-at-7.17.03-PM-300x172.png" width="300" height="172" />
   
   <p class="wp-caption-text">
     Windows 8 In a windowed session
@@ -46,7 +46,7 @@ categories:
   </p>
   
   <div id="attachment_1260" style="width: 179px" class="wp-caption aligncenter">
-    <img class="size-medium wp-image-1260 " alt="IMG_1815" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1815-169x300.png" width="169" height="300" />
+    <img class="size-medium wp-image-1260 " alt="IMG_1815" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1815-169x300.png" width="169" height="300" />
     
     <p class="wp-caption-text">
       The saved connection list
@@ -58,7 +58,7 @@ categories:
   </p>
   
   <p style="text-align: left;">
-    <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1819.png"><img class="aligncenter size-medium wp-image-1257" alt="IMG_1819" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1819-169x300.png" width="169" height="300" /></a>
+    <a href="http://cdn.nickwhyte.com/static/2013/10/IMG_1819.png"><img class="aligncenter size-medium wp-image-1257" alt="IMG_1819" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1819-169x300.png" width="169" height="300" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -66,7 +66,7 @@ categories:
   </p>
   
   <p style="text-align: center;">
-    <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1818.png"><img class="size-medium wp-image-1258 aligncenter" alt="IMG_1818" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1818-300x169.png" width="300" height="169" /></a>
+    <a href="http://cdn.nickwhyte.com/static/2013/10/IMG_1818.png"><img class="size-medium wp-image-1258 aligncenter" alt="IMG_1818" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1818-300x169.png" width="300" height="169" /></a>
   </p>
   
   <p style="text-align: center;">
@@ -76,7 +76,7 @@ categories:
     
     <p style="text-align: center;">
       <p style="text-align: center;">
-        <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1817.png"><img class="size-medium wp-image-1259 aligncenter" alt="IMG_1817" src="http://nickwhyte.com/wordpress/wp-content/uploads/2013/10/IMG_1817-300x169.png" width="300" height="169" /></a>
+        <a href="http://cdn.nickwhyte.com/static/2013/10/IMG_1817.png"><img class="size-medium wp-image-1259 aligncenter" alt="IMG_1817" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1817-300x169.png" width="300" height="169" /></a>
       </p>
       
       <p style="text-align: left;">

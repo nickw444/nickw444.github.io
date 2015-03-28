@@ -11,7 +11,7 @@ categories:
   - Programming
   - Projects
 ---
-<img class="alignright wp-image-1456" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/07/icon_128@2x.png" alt="icon_128@2x" width="64" height="64" />Due to the large response to the initial release of PlaylistGrabber, I have quickly revised some of the UI and functionality to bring it up to scratch with user expectations.
+<img class="alignright wp-image-1456" src="http://cdn.nickwhyte.com/static/2014/07/icon_128@2x.png" alt="icon_128@2x" width="64" height="64" />Due to the large response to the initial release of PlaylistGrabber, I have quickly revised some of the UI and functionality to bring it up to scratch with user expectations.
 
 #### Changelog:
 
@@ -42,12 +42,12 @@ You can download release 1.1 build 110 here:
 
 #### Screenshots
 
-<img class="aligncenter wp-image-1461 size-full" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/07/Screen-Shot-2014-07-27-at-1.49.06-am.png" alt="Screen Shot 2014-07-27 at 1.49.06 am" width="489" height="179" />
+<img class="aligncenter wp-image-1461 size-full" src="http://cdn.nickwhyte.com/static/2014/07/Screen-Shot-2014-07-27-at-1.49.06-am.png" alt="Screen Shot 2014-07-27 at 1.49.06 am" width="489" height="179" />
 
-<img class="aligncenter wp-image-1458 size-full" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/07/Screen-Shot-2014-07-27-at-1.49.46-am.png" alt="Screen Shot 2014-07-27 at 1.49.46 am" width="464" height="586" />
+<img class="aligncenter wp-image-1458 size-full" src="http://cdn.nickwhyte.com/static/2014/07/Screen-Shot-2014-07-27-at-1.49.46-am.png" alt="Screen Shot 2014-07-27 at 1.49.46 am" width="464" height="586" />
 
-<img class="aligncenter wp-image-1459 size-full" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/07/Screen-Shot-2014-07-27-at-1.49.35-am.png" alt="Screen Shot 2014-07-27 at 1.49.35 am" width="439" height="386" />
+<img class="aligncenter wp-image-1459 size-full" src="http://cdn.nickwhyte.com/static/2014/07/Screen-Shot-2014-07-27-at-1.49.35-am.png" alt="Screen Shot 2014-07-27 at 1.49.35 am" width="439" height="386" />
 
-<img class="aligncenter wp-image-1460 size-full" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/07/Screen-Shot-2014-07-27-at-1.49.12-am.png" alt="Screen Shot 2014-07-27 at 1.49.12 am" width="309" height="256" />
+<img class="aligncenter wp-image-1460 size-full" src="http://cdn.nickwhyte.com/static/2014/07/Screen-Shot-2014-07-27-at-1.49.12-am.png" alt="Screen Shot 2014-07-27 at 1.49.12 am" width="309" height="256" />
 
- [1]: http://nickwhyte.com/wordpress/wp-content/uploads/2014/07/PlaylistGrabber1.zip
+ [1]: http://cdn.nickwhyte.com/static/2014/07/PlaylistGrabber1.zip

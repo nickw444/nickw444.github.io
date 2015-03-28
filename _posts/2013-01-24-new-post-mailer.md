@@ -14,4 +14,4 @@ Just a simple wordpress plugin I wrote to send an email to all users of the blog
 
 Take a look and try it out by clicking the link above.
 
- [1]: http://nickwhyte.com/wordpress/wp-content/uploads/2013/01/New-Post-Emailer.zip
+ [1]: http://cdn.nickwhyte.com/static/2013/01/New-Post-Emailer.zip

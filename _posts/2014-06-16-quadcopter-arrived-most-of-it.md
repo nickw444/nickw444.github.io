@@ -12,8 +12,8 @@ categories:
 Today a majority of the electronic components of my quadcopter arrived. I received an email from the online shop saying that my order had been dispatched today and they included a tracking number. Upon checking the tracking, it turned out it had actually been posted on the 13th and it was &#8220;Delivered&#8221;. Being curious, I went downstairs, and there it was, a package on my door step. Excellent.
 
 <div class="pull-left">
-  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0002.jpg" class="thumbnail">
-    <img class="wp-image-1408" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" />
+  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0002.jpg" class="thumbnail">
+    <img class="wp-image-1408" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" />
     <p class="caption text-center">
       The items packed in the box
     </p>
@@ -34,7 +34,7 @@ My package contained:
   * 1x Power Distribution (Which I stupidly bought the one with the wrong plug)
 
 <div id="attachment_1410" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0003.jpg"><img class="wp-image-1410" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
+  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0003.jpg"><img class="wp-image-1410" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     The contents of my package, laid out
@@ -139,7 +139,7 @@ PWM.cleanup()</pre>
 To do all this magic with the software I did need to connect everything up, so here are a few images of the current set up
 
 <div id="attachment_1412" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0005.jpg"><img class="wp-image-1412" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
+  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0005.jpg"><img class="wp-image-1412" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Breadboarding, connecting GPIO to the ESC via an old IDE cable.
@@ -149,7 +149,7 @@ To do all this magic with the software I did need to connect everything up, so h
 &nbsp;
 
 <div id="attachment_1414" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0007.jpg"><img class="wp-image-1414" src="http://nickwhyte.com/wordpress/wp-content/uploads/2014/06/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
+  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0007.jpg"><img class="wp-image-1414" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Cheap and nasty wooden frame &#8211; soon to be replaced
