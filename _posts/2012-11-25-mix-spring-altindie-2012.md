@@ -2,7 +2,7 @@
 title: 'Mix: Spring Alt/Indie 2012'
 author: nickw
 layout: post
-permalink: /2012/11/25/mix-spring-altindie-2012/
+
 enclosure:
   - |
     |

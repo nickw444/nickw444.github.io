@@ -2,7 +2,7 @@
 title: Rest, Rest, and more Rest
 author: nickw
 layout: post
-permalink: /2013/06/15/rest-rest-and-more-rest/
+
 dsq_thread_id:
   - 1404187560
 categories:

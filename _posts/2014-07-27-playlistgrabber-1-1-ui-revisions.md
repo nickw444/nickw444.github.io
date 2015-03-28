@@ -2,7 +2,7 @@
 title: PlaylistGrabber 1.1 (UI Revisions)
 author: nickw
 layout: post
-permalink: /2014/07/27/playlistgrabber-1-1-ui-revisions/
+
 dsq_thread_id:
   - 2875215405
 categories:

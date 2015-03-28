@@ -8,10 +8,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nickwhyte.com" # the base hostname & protocol for your site
 twitter_username: nickw444
 github_username:  nickw444
-
 paginate: 5
 paginate_path: "/:num"
-permalink:     '/post/:year/:title/'
+permalink: '/post/:year/:title/'
 # Build settings
 markdown: kramdown
 include: ['_pages']

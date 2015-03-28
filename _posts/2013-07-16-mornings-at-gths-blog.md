@@ -2,7 +2,7 @@
 title: 'Mornings at GTHS #blog'
 author: nickw
 layout: post
-permalink: /2013/07/16/mornings-at-gths-blog/
+
 categories:
   - Photos
 tags:

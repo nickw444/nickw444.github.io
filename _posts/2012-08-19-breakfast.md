@@ -2,7 +2,7 @@
 title: Breakfast
 author: nickw
 layout: post
-permalink: /2012/08/19/breakfast/
+
 dsq_thread_id:
   - 810368775
 categories:

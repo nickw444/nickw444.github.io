@@ -2,7 +2,7 @@
 title: Listy relocation
 author: nickw
 layout: post
-permalink: /2013/05/02/listy-relocation/
+
 dsq_thread_id:
   - 1253813242
 categories:

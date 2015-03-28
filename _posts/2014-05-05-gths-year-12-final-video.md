@@ -2,7 +2,7 @@
 title: GTHS Year 12 Final Video
 author: nickw
 layout: post
-permalink: /2014/05/05/gths-year-12-final-video/
+
 dsq_thread_id:
   - 2662134497
 categories:

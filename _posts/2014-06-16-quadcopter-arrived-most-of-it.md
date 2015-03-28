@@ -2,7 +2,7 @@
 title: Quadcopter Arrived! (Most of it)
 author: nickw
 layout: post
-permalink: /2014/06/16/quadcopter-arrived-most-of-it/
+
 dsq_thread_id:
   - 2769007656
 categories:

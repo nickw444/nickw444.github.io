@@ -2,7 +2,7 @@
 title: Evening/Morning
 author: nickw
 layout: post
-permalink: /2012/10/26/eveningmorning/
+
 dsq_thread_id:
   - 901070630
 categories:

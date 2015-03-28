@@ -2,7 +2,7 @@
 title: Café Blogging
 author: nickw
 layout: post
-permalink: /2012/08/19/cafe-blogging/
+
 dsq_thread_id:
   - 810419126
 categories:

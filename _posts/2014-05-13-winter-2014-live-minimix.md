@@ -2,7 +2,7 @@
 title: Winter 2014 Live Minimix
 author: nickw
 layout: post
-permalink: /2014/05/13/winter-2014-live-minimix/
+
 enclosure:
   - |
     |

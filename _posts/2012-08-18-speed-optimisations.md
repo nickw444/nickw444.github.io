@@ -2,7 +2,7 @@
 title: Speed Optimisations
 author: nickw
 layout: post
-permalink: /2012/08/18/speed-optimisations/
+
 geo_latitude:
   - -33.990149
 geo_longitude:

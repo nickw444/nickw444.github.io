@@ -2,7 +2,7 @@
 title: 'Listy &#8211; Social Lists'
 author: nickw
 layout: post
-permalink: /2012/10/03/listy-social-lists/
+
 dsq_thread_id:
   - 884335039
 categories:

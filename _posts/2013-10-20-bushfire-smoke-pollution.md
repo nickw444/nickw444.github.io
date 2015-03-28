@@ -2,7 +2,7 @@
 title: Bushfire Smoke Pollution
 author: nickw
 layout: post
-permalink: /2013/10/20/bushfire-smoke-pollution/
+
 dsq_thread_id:
   - 1878735136
 categories:

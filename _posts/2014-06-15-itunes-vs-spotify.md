@@ -2,7 +2,7 @@
 title: iTunes vs Spotify
 author: nickw
 layout: post
-permalink: /2014/06/15/itunes-vs-spotify/
+
 dsq_thread_id:
   - 2765703459
 categories:

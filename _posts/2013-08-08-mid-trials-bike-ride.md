@@ -2,7 +2,7 @@
 title: Mid-trials Bike Ride
 author: nickw
 layout: post
-permalink: /2013/08/08/mid-trials-bike-ride/
+
 dsq_thread_id:
   - 1584026363
 categories:

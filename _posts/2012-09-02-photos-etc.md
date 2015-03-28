@@ -2,7 +2,7 @@
 title: Photos, etc
 author: nickw
 layout: post
-permalink: /2012/09/02/photos-etc/
+
 dsq_thread_id:
   - 827577327
 categories:

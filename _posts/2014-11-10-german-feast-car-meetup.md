@@ -2,7 +2,7 @@
 title: German Feast Car Meetup
 author: nickw
 layout: post
-permalink: /2014/11/10/german-feast-car-meetup/
+
 dsq_thread_id:
   - 3209415087
 categories:

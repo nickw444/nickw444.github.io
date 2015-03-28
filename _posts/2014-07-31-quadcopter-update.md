@@ -2,7 +2,7 @@
 title: Quadcopter Update
 author: nickw
 layout: post
-permalink: /2014/07/31/quadcopter-update/
+
 dsq_thread_id:
   - 2887360857
 categories:

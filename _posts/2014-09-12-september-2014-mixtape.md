@@ -2,7 +2,7 @@
 title: September 2014 Mixtape
 author: nickw
 layout: post
-permalink: /2014/09/12/september-2014-mixtape/
+
 enclosure:
   - |
     |

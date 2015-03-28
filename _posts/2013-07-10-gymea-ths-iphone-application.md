@@ -2,7 +2,7 @@
 title: Gymea THS iPhone Application
 author: nickw
 layout: post
-permalink: /2013/07/10/gymea-ths-iphone-application/
+
 dsq_thread_id:
   - 1483440356
 categories:

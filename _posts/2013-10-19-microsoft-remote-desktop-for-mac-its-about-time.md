@@ -2,7 +2,7 @@
 title: 'Microsoft Remote Desktop for Mac. It&#8217;s about time'
 author: nickw
 layout: post
-permalink: /2013/10/19/microsoft-remote-desktop-for-mac-its-about-time/
+
 dsq_thread_id:
   - 1874806940
 categories:

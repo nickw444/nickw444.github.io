@@ -2,7 +2,7 @@
 title: Determining Movement of a Distant Object on a Small Sensor
 author: nickw
 layout: post
-permalink: /2013/10/21/determining-movement-of-a-distant-object-on-a-small-sensor/
+
 dsq_thread_id:
   - 1881495648
 categories:

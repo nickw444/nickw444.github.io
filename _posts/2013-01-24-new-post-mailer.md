@@ -2,7 +2,7 @@
 title: New Post Mailer
 author: nickw
 layout: post
-permalink: /2013/01/24/new-post-mailer/
+
 dsq_thread_id:
   - 1044057608
 categories:

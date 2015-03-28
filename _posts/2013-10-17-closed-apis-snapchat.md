@@ -2,7 +2,7 @@
 title: 'Closed API&#8217;s: SnapChat'
 author: nickw
 layout: post
-permalink: /2013/10/17/closed-apis-snapchat/
+
 dsq_thread_id:
   - 1867243468
 categories:

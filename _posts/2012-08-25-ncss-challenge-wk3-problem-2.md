@@ -2,7 +2,7 @@
 title: NCSS Challenge Wk3 Problem 2
 author: nickw
 layout: post
-permalink: /2012/08/25/ncss-challenge-wk3-problem-2/
+
 dsq_thread_id:
   - 817787432
 categories:

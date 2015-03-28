@@ -2,7 +2,7 @@
 title: 'Windows 8.1 Blue &#8211; Where&#8217;s my Standalone Upgrade'
 author: nickw
 layout: post
-permalink: /2013/10/19/windows-8-1-blue-wheres-my-standalone-upgrade/
+
 dsq_thread_id:
   - 1874698162
 categories:

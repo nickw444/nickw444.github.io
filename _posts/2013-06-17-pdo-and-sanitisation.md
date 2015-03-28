@@ -2,7 +2,7 @@
 title: PDO and Sanitisation
 author: nickw
 layout: post
-permalink: /2013/06/17/pdo-and-sanitisation/
+
 dsq_thread_id:
   - 1409142394
 categories:

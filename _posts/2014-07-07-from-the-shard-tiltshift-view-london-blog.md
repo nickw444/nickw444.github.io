@@ -2,7 +2,7 @@
 title: 'From The Shard #tiltshift #view #london #blog'
 author: nickw
 layout: post
-permalink: /2014/07/07/from-the-shard-tiltshift-view-london-blog/
+
 dsq_thread_id:
   - 2826182652
 categories:

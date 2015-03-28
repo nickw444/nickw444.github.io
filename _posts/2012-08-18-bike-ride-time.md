@@ -2,7 +2,7 @@
 title: Bike ride time!
 author: nickw
 layout: post
-permalink: /2012/08/18/bike-ride-time/
+
 dsq_thread_id:
   - 809733934
 categories:

@@ -2,7 +2,7 @@
 title: iOS7 Remote Notification Removal
 author: nickw
 layout: post
-permalink: /2013/10/21/ios7-remote-notification-removal/
+
 dsq_thread_id:
   - 1881158530
 categories:

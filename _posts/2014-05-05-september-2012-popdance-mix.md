@@ -2,7 +2,7 @@
 title: September 2012 Pop/Dance Mix
 author: nickw
 layout: post
-permalink: /2014/05/05/september-2012-popdance-mix/
+
 enclosure:
   - |
     |

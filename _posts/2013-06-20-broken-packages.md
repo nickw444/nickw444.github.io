@@ -2,7 +2,7 @@
 title: Broken Packages
 author: nickw
 layout: post
-permalink: /2013/06/20/broken-packages/
+
 dsq_thread_id:
   - 
 categories:

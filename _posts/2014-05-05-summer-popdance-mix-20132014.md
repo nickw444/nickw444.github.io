@@ -2,7 +2,7 @@
 title: Summer Pop/Dance Mix 2013/2014
 author: nickw
 layout: post
-permalink: /2014/05/05/summer-popdance-mix-20132014/
+
 enclosure:
   - |
     |

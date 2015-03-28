@@ -2,7 +2,7 @@
 title: PlaylistGrabber for OSX/iTunes
 author: nickw
 layout: post
-permalink: /2014/07/26/playlistgrabber-for-osxitunes/
+
 dsq_thread_id:
   - 2874290111
 categories:

@@ -2,7 +2,7 @@
 title: 'Bridging the Gap: iTunes to Android'
 author: nickw
 layout: post
-permalink: /2014/06/13/bridging-the-gap-itunes-to-android/
+
 dsq_thread_id:
   - 2760734824
 categories:

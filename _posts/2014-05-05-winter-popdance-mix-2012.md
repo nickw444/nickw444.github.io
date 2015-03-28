@@ -2,7 +2,7 @@
 title: Winter Pop/Dance Mix 2012
 author: nickw
 layout: post
-permalink: /2014/05/05/winter-popdance-mix-2012/
+
 enclosure:
   - |
     |

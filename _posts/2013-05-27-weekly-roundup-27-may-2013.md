@@ -2,7 +2,7 @@
 title: Weekly Roundup 27 May 2013
 author: nickw
 layout: post
-permalink: /2013/05/27/weekly-roundup-27-may-2013/
+
 dsq_thread_id:
   - 1325532232
 categories:

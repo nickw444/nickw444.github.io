@@ -2,7 +2,7 @@
 title: Exams! / New Phone / QuadCopter
 author: nickw
 layout: post
-permalink: /2014/06/12/exams-new-phone-quadcopter/
+
 dsq_thread_id:
   - 2757447723
 categories:

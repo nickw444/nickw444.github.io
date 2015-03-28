@@ -2,7 +2,7 @@
 title: The magic inside NWRestful
 author: nickw
 layout: post
-permalink: /2013/06/13/the-magic-inside-nwrestful/
+
 dsq_thread_id:
   - 1398653350
 categories:

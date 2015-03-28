@@ -2,7 +2,7 @@
 title: Vivid Festival 2013
 author: nickw
 layout: post
-permalink: /2013/06/10/vivid-festival-2013/
+
 dsq_thread_id:
   - 1385033721
 categories:

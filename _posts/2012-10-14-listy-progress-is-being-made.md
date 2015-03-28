@@ -2,7 +2,7 @@
 title: 'Listy: Progress is being made'
 author: nickw
 layout: post
-permalink: /2012/10/14/listy-progress-is-being-made/
+
 dsq_thread_id:
   - 884347897
 categories:

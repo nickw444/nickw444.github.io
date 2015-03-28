@@ -2,7 +2,7 @@
 title: 'Careers and Intership Expo &#8211; &#8220;UTS Big Day In&#8221;'
 author: nickw
 layout: post
-permalink: /2013/06/13/careers-and-intership-expo-uts-big-day-in/
+
 dsq_thread_id:
   - 1396878190
 categories:

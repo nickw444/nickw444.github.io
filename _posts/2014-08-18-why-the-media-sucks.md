@@ -2,7 +2,7 @@
 title: 'Why the Media Sucks (Facebook Messenger Isn&#8217;t Bad)'
 author: nickw
 layout: post
-permalink: /2014/08/18/why-the-media-sucks/
+
 dsq_thread_id:
   - 2937231638
 categories:

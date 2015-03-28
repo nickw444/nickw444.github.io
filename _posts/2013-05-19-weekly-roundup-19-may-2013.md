@@ -2,7 +2,7 @@
 title: 'Weekly Roundup &#8211; 19 May 2013'
 author: nickw
 layout: post
-permalink: /2013/05/19/weekly-roundup-19-may-2013/
+
 dsq_thread_id:
   - 1298146450
 categories:

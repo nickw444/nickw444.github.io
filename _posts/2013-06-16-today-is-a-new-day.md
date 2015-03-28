@@ -2,7 +2,7 @@
 title: Today is a new day
 author: nickw
 layout: post
-permalink: /2013/06/16/today-is-a-new-day/
+
 dsq_thread_id:
   - 1404254917
 categories:

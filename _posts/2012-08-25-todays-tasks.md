@@ -2,7 +2,7 @@
 title: Todays Tasks
 author: nickw
 layout: post
-permalink: /2012/08/25/todays-tasks/
+
 dsq_thread_id:
   - 817544606
 categories:

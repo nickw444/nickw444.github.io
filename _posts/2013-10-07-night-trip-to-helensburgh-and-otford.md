@@ -2,7 +2,7 @@
 title: Night trip to Helensburgh and Otford
 author: nickw
 layout: post
-permalink: /2013/10/07/night-trip-to-helensburgh-and-otford/
+
 dsq_thread_id:
   - 1832107634
 categories:

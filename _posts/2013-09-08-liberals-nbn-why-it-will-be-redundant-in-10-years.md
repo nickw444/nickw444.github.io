@@ -2,7 +2,7 @@
 title: 'Liberal&#8217;s NBN &#038; Why It Will Be Redundant In 10 Years'
 author: nickw
 layout: post
-permalink: /2013/09/08/liberals-nbn-why-it-will-be-redundant-in-10-years/
+
 dsq_thread_id:
   - 1730877857
 categories:

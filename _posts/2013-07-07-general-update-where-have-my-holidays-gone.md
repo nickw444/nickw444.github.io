@@ -2,7 +2,7 @@
 title: General Update (Where have my holidays gone)
 author: nickw
 layout: post
-permalink: /2013/07/07/general-update-where-have-my-holidays-gone/
+
 dsq_thread_id:
   - 1474092178
 categories:

@@ -2,7 +2,7 @@
 title: 'Flask, Flask-SQLAlchemy &#038; Flask-Security'
 author: nickw
 layout: post
-permalink: /2014/07/19/flask-flask-sqlalchemy-flask-security/
+
 dsq_thread_id:
   - 2856952904
 categories:

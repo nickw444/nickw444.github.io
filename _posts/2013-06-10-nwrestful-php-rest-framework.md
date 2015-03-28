@@ -2,7 +2,7 @@
 title: 'NWRestful &#8211; PHP REST framework'
 author: nickw
 layout: post
-permalink: /2013/06/10/nwrestful-php-rest-framework/
+
 dsq_thread_id:
   - 1385333117
 categories:

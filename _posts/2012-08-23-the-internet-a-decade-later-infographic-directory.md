@@ -2,7 +2,7 @@
 title: The Internet a Decade Later « Infographic Directory
 author: nickw
 layout: post
-permalink: /2012/08/23/the-internet-a-decade-later-infographic-directory/
+
 dsq_thread_id:
   - 815566592
 categories:

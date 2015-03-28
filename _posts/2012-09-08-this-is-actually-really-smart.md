@@ -2,7 +2,7 @@
 title: This is actually really smart
 author: nickw
 layout: post
-permalink: /2012/09/08/this-is-actually-really-smart/
+
 dsq_thread_id:
   - 853756756
 categories:

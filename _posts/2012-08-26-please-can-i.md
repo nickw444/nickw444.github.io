@@ -2,7 +2,7 @@
 title: Please Can I?
 author: nickw
 layout: post
-permalink: /2012/08/26/please-can-i/
+
 dsq_thread_id:
   - 819047118
 categories:

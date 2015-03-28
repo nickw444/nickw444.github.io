@@ -2,7 +2,7 @@
 title: Smoke Pollution (Red Moon)
 author: nickw
 layout: post
-permalink: /2013/10/20/smoke-pollution-red-moon/
+
 dsq_thread_id:
   - 2179886984
 categories:

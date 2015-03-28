@@ -2,7 +2,7 @@
 title: Central Coast
 author: nickw
 layout: post
-permalink: /2013/06/10/central-coast/
+
 dsq_thread_id:
   - 1383412821
 categories:

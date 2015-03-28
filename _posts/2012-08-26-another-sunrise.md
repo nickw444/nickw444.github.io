@@ -2,7 +2,7 @@
 title: Another Sunrise!
 author: nickw
 layout: post
-permalink: /2012/08/26/another-sunrise/
+
 categories:
   - Blog
 ---

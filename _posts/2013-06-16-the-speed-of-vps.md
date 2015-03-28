@@ -2,7 +2,7 @@
 title: The Speed of VPS
 author: nickw
 layout: post
-permalink: /2013/06/16/the-speed-of-vps/
+
 dsq_thread_id:
   - 1405140395
 categories:

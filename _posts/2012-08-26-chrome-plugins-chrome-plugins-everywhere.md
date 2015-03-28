@@ -2,7 +2,7 @@
 title: 'Chrome Plugins&#8230; Chrome Plugins Everywhere'
 author: nickw
 layout: post
-permalink: /2012/08/26/chrome-plugins-chrome-plugins-everywhere/
+
 dsq_thread_id:
   - 823402533
 categories:

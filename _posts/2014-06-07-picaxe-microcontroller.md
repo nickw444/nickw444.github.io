@@ -2,7 +2,7 @@
 title: Picaxe Microcontroller
 author: nickw
 layout: post
-permalink: /2014/06/07/picaxe-microcontroller/
+
 dsq_thread_id:
   - 2744444137
 categories:

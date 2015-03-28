@@ -2,7 +2,7 @@
 title: Quadcopter Electronics Assembly Complete
 author: nickw
 layout: post
-permalink: /2014/06/22/quadcopter-electronics-assembly-complete/
+
 dsq_thread_id:
   - 2785295561
 categories:

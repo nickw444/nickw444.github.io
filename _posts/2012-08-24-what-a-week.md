@@ -2,7 +2,7 @@
 title: What a week
 author: nickw
 layout: post
-permalink: /2012/08/24/what-a-week/
+
 dsq_thread_id:
   - 816936074
 categories:

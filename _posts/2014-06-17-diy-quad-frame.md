@@ -2,7 +2,7 @@
 title: DIY Quad Frame
 author: nickw
 layout: post
-permalink: /2014/06/17/diy-quad-frame/
+
 dsq_thread_id:
   - 2770913971
 categories:

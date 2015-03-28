@@ -2,7 +2,7 @@
 title: Hello and welcome back
 author: nickw
 layout: post
-permalink: /2012/08/17/hello-and-welcome-back/
+
 dsq_thread_id:
   - 809215685
 categories:
