@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="css/flatly.bootstrap.min.css">
+        <style type="text/css">
+        h2 {
+            font-size: 18px;
+            /*margin: 0;*/
+        }
+        h3 {
+            font-size: 15px;
+            font-weight: 300;
+            /*font-size: 14px;*/
+        }
+        h4 {
+            font-size: 16px;
+            margin:2px 0 ;
+            font-weight: 500;
+        }
+        body {
+            padding-bottom: 50px;
+        }
+        div.container > ul {
+            margin: 15px 0;
+        }
+        div.container > ul > li > ul {
+            margin-bottom:5px;
+        }
+        .inline-list li {
+            display:inline-block;
+            border:1px solid #ddd;
+            padding:10px;
+            margin:5px;
+            font-weight: 500;
+        }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Nicholas Whyte</h1>
+            <p><a href="mailto:nick@nickwhyte.com">nick@nickwhyte.com</a> | <a href="tel:+61421128501">+61421128501</a> | Student at University of New South Wales <span id="print-links">| <a href="cover_google_intern.pdf">Download PDF</a></span></p>
+        
+            <div class="progress hidden-print" style="height:3px;">
+                <div class="progress-bar progress-bar-success" style="width: 35%"></div>
+                <div class="progress-bar progress-bar-warning" style="width: 20%"></div>
+                <div class="progress-bar progress-bar-danger" style="width: 10%"></div>
+                <div class="progress-bar progress-bar-primary" style="width: 35%"></div>
+            </div>
+            <hr class="visible-print-block" />
+            <p>
+                As a skilled Computer Science student at UNSW, I believe I would bring a great skill set to Google. I believe my skills, qualifications and work experience match the criteria that Google seeks for this position. Becoming a Google Software Engineering Intern will allow me to broaden my knowledge in the computing field and allow me to apply my skills to the tasks that may lie ahead. 
+            </p>
+            </p>
+                I have a broad range of skills in computing, many of which are closely tied with web development in Python. I've built up my skills in Python web development (Flask) over the past year in projects in my current field of employment. Prior to this I have produced iOS apps, and many PHP 'webapps'. 
+            </p>
+            <p>
+                Additionally, I am regularly publishing open source code, either in contributions to open source repos or my own projects that I am sharing with the world. <a href="index.html">My attached resume contains more details about these.</a>
+            </p>
+            <p>
+                My skills aren't just limited to programming, I've had a great amount of hands on with linux server management, deploying my own webapps, running multiple VPS's, and even more experience whilst working in IT for 2 years.
+            </p>
+            <p>
+                The past year of university has allowed me to broaden my knowledge and learn more about team work, code quality and time management. 
+            </p>
+            <a href="index.html">Read my resume &rarr;</a>
+        </div>
+        <script type="text/javascript">
+            if (document.location.search == '?print') {
+                var links = document.getElementById("print-links");
+                if (links != null){
+                    links.parentElement.removeChild(links);
+                }
+            }
+        </script>
+    </body>
+</html>
