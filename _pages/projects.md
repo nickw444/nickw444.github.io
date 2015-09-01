@@ -25,5 +25,5 @@ I do still however have available a minority of my projects, which was once a gi
 *   [PlaylistGrabber](http://nickwhyte.com/category/projects/playlistgrabber/)
 
 ## Other Projects (From a long time ago)
-*   [SiriProxyGui](https://github.com/nickw444/SiriProxyGUI) for Linux (Available/Not Maintained) - A easy to configure siriproxy graphical user interface, which attracted over 40 000 visitors to my blog per month over the summer of 2011. 
+*   [SiriProxyGui](https://github.com/nickw444/SiriProxyGUI) for Linux (Available/Not Maintained) - An easy to configure siriproxy graphical user interface, which attracted over 40 000 visitors to my blog per month over the summer of 2011. 
 *   [NWPi](https://github.com/nickw444/nwpi)&nbsp;– Objective Framework wrapper for PyGame – Basic re-write of Cocoa. (Available/Not Maintained)
