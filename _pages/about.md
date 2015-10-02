@@ -9,7 +9,7 @@ menu: default
 
 ### Hey there!
 
-I'm Nick, student of UNSW, studying Computer Science. I build web-apps, websites, iPhone/iPad apps, and many more custom solutions. 
+I'm Nick, studying Computer Science at UNSW. I build web-apps, websites, iPhone/iPad apps, and many more custom solutions. 
 
 I enjoy programming A LOT. Complex problems and challenges bring light to my day, giving me something new and interesting to work on, on a daily basis. 
 
