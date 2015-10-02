@@ -17,7 +17,7 @@ where we (team K17) placed 1st in Australia/10th overall.
 I did not participate in this CTF as much as I would have liked to, since I was
 already pre-occupied with the CSESoc Hackathon, however, I did lend a hand 
 with Web 500 - A fake dating website where the aim was to recover Donald 
-Trump's TOTP key as well as his password. I managed to solve have of the 
+Trump's TOTP key as well as his password. I managed to solve half of the 
 challenge by finding an SQL injectable endpoint in a CSP reporting endpoint, 
 where I dumped a password hash and other info about the account. We recovered 
 the password hash using a dictionary attack, However the full solution required 
