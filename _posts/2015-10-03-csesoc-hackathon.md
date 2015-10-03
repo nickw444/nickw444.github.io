@@ -40,7 +40,7 @@ We wanted the following features from the service:
 - Home Page/General:
     - A-Z listing of all projects
     - Show latest 3 projects on the home page "ShowCase"
-- Logins/Logouts use UNSW's LDAP service, so it's all UNSW SSO.
+- Logins use UNSW's LDAP service, so it's all UNSW SSO.
 
 There are some additional features we wish to work into it, such as reading
 README.md from github projects. 
