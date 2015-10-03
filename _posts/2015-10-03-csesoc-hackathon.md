@@ -26,23 +26,20 @@ the frontend, statically served from the server.
 We wanted the following features from the service:
 
 - A project has:
- - Web URL
- - Download URL
- - Marketing URL
- - Markdown formatted description
- - Ability to upload screenshots of the project
- - A project can have multiple contributors
-
+    - Web URL
+    - Download URL
+    - Marketing URL
+    - Markdown formatted description
+    - Ability to upload screenshots of the project
+    - A project can have multiple contributors
 - Project Page:
- - Showcase of all projects the user has worked on
- - About me for the user
- - Show who the user follows
- - Show who is following the user
-
+    - Showcase of all projects the user has worked on
+    - About me for the user
+    - Show who the user follows
+    - Show who is following the user
 - Home Page/General:
- - A-Z listing of all projects
- - Show latest 3 projects on the home page "ShowCase"
-
+    - A-Z listing of all projects
+    - Show latest 3 projects on the home page "ShowCase"
 - Logins/Logouts use UNSW's LDAP service, so it's all UNSW SSO.
 
 There are some additional features we wish to work into it, such as reading
