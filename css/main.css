@@ -61,3 +61,9 @@ h2 {font-size: 14px; font-weight: lighter; margin:22px 0 20px 0;}
 .site-footer {
     text-align: center;
 }
+
+.comments {
+    margin-top:50px;
+    padding-top:20px;
+    border-top:1px solid #ccc;
+}
