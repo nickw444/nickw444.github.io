@@ -115,8 +115,12 @@ Perfect. Now lets set up the command we want to run when we invoke `id`. We can
 write arbitrary commands using ls <filename> provided the file exists, so we create
 the command we want:
 
-{% highlight text %}
+{% highlight bash %}
 > log bash<.flag
+[log] next command output will be saved to bash<.flag
+> ls
+bin
+id.sh
 > ls bash*
 bash<.flag
 {% endhighlight %}
