@@ -9,7 +9,7 @@ categories:
 ---
 
 
-<div style="font-size:0.7em"><i>Note: If you're interested in actually doing these challenges, <a href="/post/2015/cysca-web-pentest/">check out this post</a> on 
+<div style="font-size:0.7em"><i>Note: If you're interested in actually doing these challenges, <a href="/post/2015/cysca-2015/">check out this post</a> on 
 how to get the environment set up.</i>
 </div>
 
