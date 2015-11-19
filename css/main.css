@@ -30,10 +30,10 @@ h2 {font-size: 14px; font-weight: lighter; margin:22px 0 20px 0;}
 .post-content .alignright {float:right; margin-left:20px;}
 .post-content .alignleft {float:left; margin-right:20px;}
 .post-content .aligncenter {margin:0 auto;}
+.post-content ol {margin-bottom:20px;}
 
 .post-content .wp-caption { background-color: #eee; border:1px solid #ddd; text-align: center; margin:20px;}
 .post-content .wp-caption.aligncenter { margin:0 auto; margin-top:20px; margin-bottom:20px;}
-
 .post-content .wp-caption p {font-size: 12px; margin:0; padding-bottom:0;}
 
 .pagination {text-align: center; width:100%; border-top: 1px solid #ccc; padding-top:20px;}
