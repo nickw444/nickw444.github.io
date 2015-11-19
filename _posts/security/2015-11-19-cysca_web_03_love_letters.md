@@ -8,6 +8,12 @@ categories:
   - Security
 ---
 
+<div style="font-size:0.7em"><i>Note: If you're interested in actually doing these challenges, <a href="/post/2015/cysca-web-pentest/">check out this post</a> on 
+how to get the environment set up.</i>
+</div>
+
+* * *
+
 Now that we're logged in, lets take a poke around and see what we're dealing 
 with. There appears to be sections to:
 

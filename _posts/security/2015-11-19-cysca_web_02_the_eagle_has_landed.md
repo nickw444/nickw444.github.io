@@ -8,6 +8,12 @@ categories:
   - Security
 ---
 
+<div style="font-size:0.7em"><i>Note: If you're interested in actually doing these challenges, <a href="/post/2015/cysca-web-pentest/">check out this post</a> on 
+how to get the environment set up.</i>
+</div>
+
+* * *
+
 We need to obtain a working account on the system. 
 
 We Register with the following details:

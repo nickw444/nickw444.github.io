@@ -8,6 +8,13 @@ categories:
   - Security
 ---
 
+
+<div style="font-size:0.7em"><i>Note: If you're interested in actually doing these challenges, <a href="/post/2015/cysca-web-pentest/">check out this post</a> on 
+how to get the environment set up.</i>
+</div>
+
+* * *
+
 It's no coincidence this challenge is called Terminal Situation, we have a 
 terminal sitting right in front of us. 
 

@@ -8,6 +8,13 @@ categories:
   - Security
 ---
 
+<div style="font-size:0.7em"><i>Note: If you're interested in actually doing these challenges, <a href="/post/2015/cysca-web-pentest/">check out this post</a> on 
+how to get the environment set up.</i>
+</div>
+
+* * *
+
+
 We need to gain access to the CVO (Angelina's) account. In order to do this, we
 most likely will need to steal a cookie. We take a look in the leave details 
 section and put in a leave request to see if it's XSS protected. Additionally,
