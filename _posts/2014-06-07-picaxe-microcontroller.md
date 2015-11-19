@@ -28,11 +28,4 @@ Quite basic. However it&#8217;s made me surprisingly happy. I can control a LED 
 
 
 
-<p class="jetpack-slideshow-noscript robots-nocontent">
-  This slideshow requires JavaScript.
-</p>
-
-<div id="gallery-1349-8-slideshow"  class="slideshow-window jetpack-slideshow slideshow-" data-width="984" data-height="410" data-trans="fade" data-gallery="[{&quot;src&quot;:&quot;http:\/\/nickwhyte.com\/wordpress\/wp-content\/uploads\/2014\/06\/IMG_14371.jpg&quot;,&quot;id&quot;:&quot;1358&quot;,&quot;caption&quot;:&quot;The Serial Stream&quot;},{&quot;src&quot;:&quot;http:\/\/nickwhyte.com\/wordpress\/wp-content\/uploads\/2014\/06\/IMG_14391.jpg&quot;,&quot;id&quot;:&quot;1357&quot;,&quot;caption&quot;:&quot;The Hardware&quot;}]">
-</div>
-
  [1]: http://cdn.nickwhyte.com/static/2014/06/Screen-Shot-2014-06-08-at-12.08.34-am.png
