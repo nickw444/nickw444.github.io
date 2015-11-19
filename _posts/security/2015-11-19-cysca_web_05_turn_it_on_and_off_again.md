@@ -86,7 +86,7 @@ Parameter: JSON uid ((custom) POST)
 {% endhighlight %}
 
 Awesome. Let's get some data out of this database. We use multiple threads to 
-speed up the collection, since this is a blind injection. Additionall, it looks 
+speed up the collection, since this is a blind injection. Additionally, it looks 
 **totally badass**.
 `sqlmap.py -r tickets.txt  --ignore-401 --level=3 --tables --threads=10`:
 
