@@ -3,8 +3,6 @@ title: CySCA 2015 - Corporate Pentest 1.0 - Sales Pitch
 author: nickw
 layout: post
 
-dsq_thread_id:
-  - 809215685
 categories:
   - Blog
   - Security

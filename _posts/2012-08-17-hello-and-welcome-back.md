@@ -3,8 +3,7 @@ title: Hello and welcome back
 author: nickw
 layout: post
 
-dsq_thread_id:
-  - 809215685
+
 categories:
   - Blog
 ---

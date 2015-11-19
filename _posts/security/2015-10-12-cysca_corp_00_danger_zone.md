@@ -3,8 +3,6 @@ title: CySCA 2015 - Corporate Pentest 0.0 - Danger Zone
 author: nickw
 layout: post
 
-dsq_thread_id:
-  - 809215685
 categories:
   - Blog
   - Security
@@ -13,7 +11,7 @@ categories:
 
 Similar to last year, we perform a domain transfer request to show all the records in the domain, revealing the flag.
 
-{% highlight bash %}
+{% highlight text %}
 $> dig -t axfr ecwi.cysca @ns.ecwi.cysca
 
 ; <<>> DiG 9.8.3-P1 <<>> -t axfr ecwi.cysca @ns.ecwi.cysca
