@@ -26,6 +26,8 @@ with. There appears to be sections to:
 - There seems to also be a message board. Maybe XSS or Injection. 
 - There's also a mail inbox.
 
+<!--break-->
+
 Since this challenge is called love letters, lets focus on the mail. 
 
 We'll send a message to ourself. We send the message:

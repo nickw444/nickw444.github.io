@@ -20,6 +20,8 @@ $> telnet 172.16.5.30 3128
 CONNECT 10.10.5.30:23 HTTP/1.0
 {% endhighlight %}
 
+<!--break-->
+
 We need to authenticate (token is found on the backend management page)
 {% highlight bash %}
 Token: 7e8e816557776037a15f

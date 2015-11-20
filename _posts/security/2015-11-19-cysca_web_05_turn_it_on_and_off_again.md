@@ -19,6 +19,8 @@ As an executive, we notice we've got some additional functionality. We notice
 another menu item "IT Support" and the "Executive Board" option on the home
 page. 
 
+<!--break-->
+
 Since the challenge is called "Turn it on and off", we will have a poke around 
 the IT support section.
 

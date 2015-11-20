@@ -28,6 +28,8 @@ We do the naive thing and just put `<h1>Hello</h1>` in. However, the ticker spit
 out `WARNING: XSS detected! You have been reported.`. Additionally, it appears 
 the XSS is stripped client side too. 
 
+<!--break-->
+
 Lets take this to a [PostMan](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) session rather than mucking around with 
 request stripping. 
 

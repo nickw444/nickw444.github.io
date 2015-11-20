@@ -18,6 +18,8 @@ how to get the environment set up.</i>
 It's no coincidence this challenge is called Terminal Situation, we have a 
 terminal sitting right in front of us. 
 
+<!--break-->
+
 {% highlight text %}
 <server> connected
 {% endhighlight %}

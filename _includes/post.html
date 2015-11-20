@@ -7,6 +7,9 @@
         {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • <a href="{{ page.url }}#disqus_thread"></a>
     </h2>
     <div class="post-content">
-        {{ page.content | markdownify }}
+        {{ page.content | split:'<!--break-->' | first }}
+        {% if page.content contains '<!--break-->' %}
+            <a href="{{ page.url }}">Continue reading &rarr;</a>
+        {% endif %}
     </div>
 </div>

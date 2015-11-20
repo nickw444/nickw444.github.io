@@ -18,6 +18,7 @@ This is due to misconfiguration in the proxy configuration file:
 $> cat /etc/squid3/squid.conf
 {% endhighlight %}
 
+<!--break-->
 
 {% highlight bash %}
 # Allow connections to the internet

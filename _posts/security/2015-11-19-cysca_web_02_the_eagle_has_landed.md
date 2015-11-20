@@ -31,6 +31,8 @@ We notice a message at the top:
 
 > Account Registered - Awaiting IT approval.
 
+<!--break-->
+
 Trying to log in yields this error message: 
 
 > ACCOUNT LOCKED

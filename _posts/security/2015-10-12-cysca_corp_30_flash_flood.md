@@ -20,6 +20,8 @@ that:
 We perform some network connection analysis, using ifconfig, route, arp,
 netstat, and additionally look at the squid access log.
 
+<!--break-->
+
 We deduce the following info:
 
 - eth1 has IP address's: `ifconfig`
