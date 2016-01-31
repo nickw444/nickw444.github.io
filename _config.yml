@@ -14,3 +14,4 @@ permalink: '/post/:year/:title/'
 # Build settings
 markdown: kramdown
 include: ['_pages']
+gems: [jekyll-paginate]
