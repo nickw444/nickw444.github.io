@@ -8,6 +8,9 @@ categories:
   - Programming
 ---
 
+<div class="pull-right hidden-xs" style="font-size:128px; padding: 5px 5px 5px 20px;">🔥💯</div>
+<div class="pull-right hidden-sm hidden-lg hidden-md" style="font-size:68px; padding: 5px 5px 5px 20px;">🔥💯</div>
+
 In 2014, a prediction was accurately made for the Hottest 100 of 2013. The results were posted on [warmest100.com.au](http://warmest100.com.au/).
 
 The author of the prediction in 2014 managed to acquire accurate results because Triple J featured a social share button on their voting page, which posted your votes to your Facebook in text form. The author scraped results from public Facebook posts and aggregated all the votes. They managed to obtain `1.3%` (`1779` entries) of the expected total vote.
