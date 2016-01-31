@@ -22,7 +22,7 @@ Consequently, voting for the Hottest 100 2014 and 2015 did not contain such a fe
 
 - Triple J Tallied `2094350` Votes (`209435` Entries) for Hottest 100 2015
 - I collected a sample size of `~2.5%` of all entries
-    - I collected `7191` images collected initially
+    - `7191` images collected 
     - I categorised `5529` images as votes
     - `~4900` images contained the words "vote/votes/voting"
 - My Top 3 Results were `100%` accurate
