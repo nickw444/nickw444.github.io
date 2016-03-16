@@ -6,13 +6,11 @@
         <style type="text/css">
         h2 {
             font-size: 18px;
-            /*margin: 0;*/
             margin-top:15px;
         }
         h3 {
             font-size: 15px;
             font-weight: 300;
-            /*font-size: 14px;*/
         }
         h4 {
             font-size: 16px;
@@ -36,6 +34,19 @@
             font-weight: 500;
         }
         </style>
+        <style>
+          .print h1 {
+            font-size:24px
+          }
+          .print .inline-list li {
+            margin:3px;
+            padding: 4px;
+          }
+          .print p,
+          .print li {
+            font-size:12px;
+          }
+        </style>
     </head>
     <body>
         <div class="container">
@@ -54,9 +65,9 @@
                 <li><span class="pull-right"><strong>2014-Present</strong></span>
                     <h4>University of New South Wales</h4>
                     <p>
-                        Currently in my final year, studying Bachelor of Science (Computer Science).
+                        Currently in my final year, studying Bachelor of Science (Computer Science). Distinction Average
                         <ul>
-                            <li><span class="label label-success">HD</span> Computing 1, Software Construction, Computing 2</li>
+                            <li><span class="label label-success">HD</span> Computing 1, Software Construction, Computing 2, Computer Graphics</li>
                         </ul>
                     </p>
                 </li>
@@ -75,30 +86,30 @@
                     As a lead Developer and owner of TwoPi Code, I am responsible for a significant portion of code production in several projects. I am able to heavily influence the overall design of these projects by working closely with other staff. Due to my role, most responsibility of team management and coordination is handed to me, giving me the opportunity to effectively manage other developers in my team.
                     </p>
                 </li>
-                <li><span class="pull-right"><strong>Summer 2015/2016</strong></span>
-                    <h4>Atlassian - Software Engineering Intern</h4>
-                    <p>
-                        During my internship at Atlassian, I primarily worked on logging infrastructure, also known as LaaS. During my time at Atlassian, I helped my team work with a large elasticsearch cluster, allowing other Atlassians to retrieve and analyse logs. I gained broad knowledge of various AWS services such as Kinesis, EC2, S3, Cloudformation, IAM, and DynamoDB. 
-                    </p>
-                </li>
                 <li><span class="pull-right"><strong>2015-Present</strong></span>
                     <h4>University of New South Wales - Course Tutor</h4>
                     <ul>
-                        <li>COMP1917 - Computing 1</li>
-                        <li>COMP2041 - Software Construction</li>
+                        <li>COMP1917 (15S1, 16S1) - Computing 1</li>
+                        <li>COMP2041 (15S2) - Software Construction</li>
                     </ul>
+                </li>
+                <li><span class="pull-right"><strong>Summer 15-16</strong></span>
+                    <h4>Atlassian - Software Engineering Intern</h4>
+                    <p>
+                        During my internship at Atlassian, I primarily worked on logging infrastructure, also known as LaaS. I contibuted towards running a large elasticsearch cluster, allowing other Atlassians to retrieve and analyse logs. I gained broad knowledge of various AWS services such as Kinesis, EC2, S3, Cloudformation, IAM, and DynamoDB as well as an in depth understanding of Elasticsearch and the problems of running it at scale.
+                    </p>
                 </li>
                 <li><span class="pull-right"><strong>2012-2014</strong></span>
                     <h4>L&amp;J Computers - Technician</h4>
                     <p>
-                        As a technician at L&amp;J Computers, I performed detailed repairs on 
+                        As a technician at L&amp;J Computers, I performed detailed repairs on
                         computers for both business customers as well as home customers.
                     </p>
                 </li>
                 <li><span class="pull-right"><strong>2010-2012</strong></span>
                     <h4>McDonalds - Crew Member</h4>
                     <p>
-                        Awarded crew member of the month within the first 2 months of starting work. Rated 'Exceptional' by store manager. 
+                        Awarded crew member of the month within the first 2 months of starting work. Rated 'Exceptional' by store manager.
                     </p>
                 </li>
             </ul>
@@ -116,8 +127,10 @@
 
             <ul class="inline-list hidden-print">
                 <li>Python/Python(Flask)</li>
-                <li>(JavaScript/jQuery/HTML/CSS/Less)</li>
+                <li>(JavaScript/jQuery/ES6(7) + React/HTML/CSS/Less)</li>
                 <li>Objective C/Foundation/Cocoa</li>
+                <li>Node JS + Express</li>
+                <li>Golang</li>
                 <li>C</li>
                 <li>PHP</li>
                 <li>MySQL/SQLite</li>
@@ -125,8 +138,10 @@
             </ul>
             <ul class="visible-print-block">
                 <li>Python/Python(Flask)</li>
-                <li>(JavaScript/jQuery/HTML/CSS/Less)</li>
+                <li>(JavaScript/jQuery/ES6(7) + React/HTML/CSS/Less)</li>
                 <li>Objective C/Foundation/Cocoa</li>
+                <li>Node JS + Express</li>
+                <li>Golang</li>
                 <li>C</li>
                 <li>PHP</li>
                 <li>MySQL/SQLite</li>
@@ -136,28 +151,27 @@
             <h6>A list of projects I am proud of. Including large open source projects I have contributed to,  personal products and open source libraries.</h6>
             <ul>
                 <li><span class="label label-danger">Library</span> <a href="https://github.com/nickw444/flask-ldap3-login/">Flask-Ldap3-Login</a> - Connect your flask app to your LDAP directory <span class="small">(1.3k Downloads/Month)</span></li>
-                <li><span class="label label-danger">Library</span> <a href="https://github.com/nickw444/Flask-Boilerplate">Flask-Boilerplate</a> - Get up and running with MVC in 30 minutes</li>
                 <li><span class="label label-danger">Library</span> <a href="https://github.com/nickw444/flask-phantom-emoji">Flask-Phantom-Emoji</a> - Opensource Emoji for your Flask App</li>
-                <li><span class="label label-danger">Library</span> <a href="https://github.com/nickw444/python-maketools">python-maketools</a> - Build dependencies in Python</li>
-                <li><span class="label label-danger">Library</span> <a href="https://github.com/nickw444/NWPi">NWPi (Python)</a> - Use PyGame objectively, with similar naming to Cocoa on iOS</li>
+                <li><span class="label label-warning">Contribution</span> <a href="https://github.com/alecthomas/kingpin">Kingpin (Golang)</a> - Add bash/ZSH completion support <span class="small"><a href="https://github.com/alecthomas/kingpin/pull/99">(see pull request #99)</a></span></li>
                 <li><span class="label label-warning">Contribution</span> <a href="https://github.com/mitsuhiko/flask-sqlalchemy">flask-sqlalchemy</a> - Use Raw SQLAlchemy models with Flask-Sqlalchemy <span class="small"><a href="https://github.com/mitsuhiko/flask-sqlalchemy/pull/250">(see pull request #250)</a></span></li>
                 <li><span class="label label-warning">Contribution</span> <a href="https://github.com/Itxaka/pyapi-gitlab">gitlab-pyapi</a> - Allow Project Issues to be filtered by passing kwargs <span class="small"><a href="https://github.com/Itxaka/pyapi-gitlab/pull/112">(see pull request #112)</a></span></li>
-                <li><span class="label label-warning">Contribution</span> <a href="https://github.com/Itxaka/pyapi-gitlab">flask-menu</a> - Get Arguments for Endpoints &amp; Compatibility with Flask-Classy <span class="small"><a href="https://github.com/inveniosoftware/flask-menu/pull/33">&nbsp;(see pull request #33)</a></span></li>
+                <li><span class="label label-warning">Contribution</span> <a href="https://github.com/inveniosoftware/flask-menu">flask-menu</a> - Get Arguments for Endpoints &amp; Compatibility with Flask-Classy <span class="small"><a href="https://github.com/inveniosoftware/flask-menu/pull/33">&nbsp;(see pull request #33)</a></span></li>
                 <li><span class="label label-warning">Contribution</span> <a href="https://github.com/SnoringFrog/GitlabIntegrate">GitlabIntegrate</a><span class="small"><a href="https://github.com/SnoringFrog/GitlabIntegrate/pull/7">(see pull request #7)</a></span></li>
-                <li><span class="label label-success">Project</span> <a href="http://listy.nickwhyte.com/">Listy</a> - An iOS app to share and collaborate on lists with friends and family (2012)</li>
                 <li><span class="label label-success">Project</span> <a href="https://itunes.apple.com/tw/app/id458958123?mt=8">L Plater</a> - An iOS app to allow NSW Learners log their driving hours on their phones.</li>
                 <li><span class="label label-success">Project</span> <a href="https://github.com/nickw444/playlist-grabber">Playlist Grabber</a> - Export iTunes playlists and songs to your Android Phone</li>
                 <li><span class="label label-success">Project</span> <a href="https://github.com/nickw444/ShowCSE">ShowCSE</a> - A webapp for CSE students to showcase their projects</li>
-
+                <li><span class="label label-success">Project</span> <a href="https://github.com/nickw444/docker-ui">Docker-UI</a> - A basic UI for a private docker registry.</li>
+                <li><span class="label label-success">Project</span> <a href="https://github.com/nickw444/Sprinkle">Sprinkle</a> - Remote control and timed solenoid control with remote controll via iOS app.</li>
                 <li>Business management database in MS Access for L&amp;J Computers during employment to convert a paper based system.</li>
                 <li>Additional <i>closed source</i> projects worked on during employment at <a href="http://twopicode.com/">TwoPi Code</a> available to discuss upon request.</li>
             </ul>
             <a href="https://github.com/nickw444">See more on GitHub @nickw444</a>
             <h3>Additional Qualifications</h3>
             <ul>
-                <li>Extremly comfortable with WSGI dev/deployment on Linux (Docker, Bare Metal with Supervisor, Vagrant)</li>
-                <li>Broad knowledge of Linux server systems (Debian)</li>
-                <li>Moderate experience with web scale technology (Redis, MongoDB)</li>
+                <li>Extremly comfortable with WSGI dev/deployment on Linux (Docker, Docker Compose, Bare Metal with systemd, Vagrant)</li>
+                <li>Broad knowledge of Linux server systems (Debian/Ubuntu)</li>
+                <li>Familiar with Webpack and browser bundling</li>
+                <li>In depth experience with high availably data stores such as Redis, MongoDB and Elasticsearch</li>
             </ul>
             <h2>Achievements &amp; Volunteer Work</h2>
             <ul>
@@ -167,6 +181,8 @@
                 <li>Offered University of Wollongong Deans Scholar Scholarship</li>
                 <li>CSESoc (UNSW) First Year Camp Leader</li>
                 <li>Offered Microsoft U-Crew position for 2014</li>
+                <li><a href="https://www.youtube.com/watch?v=oBAr7mQHMZY">Appeared on ABC News 24 Weekend Breakfast for Interview about CySCA 2015</a></li>
+                <li><a href="https://developer.atlassian.com/blog/2016/03/building-helpful-golang-cli-tools/">Published blog post on developer.atlassian.com about Kingpin (Golang) CLI bash completions</a></li>
             </ul>
             <h2>Referees</h2>
             <a href="mailto:nick@nickwhyte.com">Available upon request &rarr;</a>
@@ -179,6 +195,7 @@
             if (links != null){
                 links.parentElement.removeChild(links);
             }
+            document.getElementsByTagName('body')[0].className = "print"
         }
     </script>
 </html>
