@@ -3,7 +3,7 @@ title: Nick Whyte
 email: nick@nickwhyte.com
 description: Programming and Exciting Things
 gravatar: //www.gravatar.com/avatar/5986012fd232ca94685904a95c56b17e
-copyright: '&copy; Nick Whyte 2011-2015'
+copyright: '&copy; Nick Whyte 2011-2016'
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nickwhyte.com" # the base hostname & protocol for your site
 twitter_username: nickw444
@@ -14,3 +14,4 @@ permalink: '/post/:year/:title/'
 # Build settings
 markdown: kramdown
 include: ['_pages']
+gems: [jekyll-paginate]
