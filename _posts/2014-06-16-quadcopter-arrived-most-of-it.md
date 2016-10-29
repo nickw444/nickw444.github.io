@@ -77,7 +77,7 @@ It was a time consuming process learning how to communicate with the ESC&#8217;s
 
 Basically to send a speed control to the ESC you need to use Pulse Width Modulation. This is a signal of a square wave. It has two variable parameters; the period and the duty. The period is the frequency and the duty is how long a pulse is to stay high for.
 
-<img class="aligncenter" src="http://www.zembedded.com/wp-content/uploads/2012/12/AVR_PWM.png" alt="" width="444" height="238" />
+<img class="aligncenter" src="//cdn.nickwhyte.com/2014/AVR_PWM.png" alt="" width="444" height="238" />
 
 I knew all about how this worked, but had no clue how on earth to communicate within the range the ESC understood. After some light googling, [I found out][2] the range around ESC&#8217;s PWM signal. A width of 700 &#8211; 2000 microseconds is within the working range of a generic ESC.  However the next issue was how to communicate using python using a value of microseconds. I&#8217;m lazy, and using math to turn this into a frequency in Hz unfortunate. Instead it turns out Python/RPi.GPIO has a class in PWM for a servo. It lets you set the value of microseconds directly. Awesome. Here&#8217;s a snippet of my code:
 
