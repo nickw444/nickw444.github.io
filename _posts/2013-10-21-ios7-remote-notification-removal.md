@@ -9,7 +9,7 @@ categories:
   - Blog
   - Programming
 ---
-<img class="alignright" alt="" src="http://cdn.nickwhyte.com/static/2013/10/ui_r_35.jpg" width="300" />I&#8217;ve noticed since the early builds of iOS7 that notification centre on both the lock screen and within the phone, now has this really nice feature.
+<img class="alignright" alt="" src="//cdn.nickwhyte.com/2013/ui_r_35.jpg" width="300" />I&#8217;ve noticed since the early builds of iOS7 that notification centre on both the lock screen and within the phone, now has this really nice feature.
 
 It appears as though specific services such as Google Plus and Facebook which distribute notification to users phones will now remove the notifications from the lock screen if they have been viewed somewhere else (ie, on a computer).
 

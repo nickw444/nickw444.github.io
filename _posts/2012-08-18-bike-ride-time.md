@@ -9,8 +9,8 @@ categories:
   - Blog
 format: image
 ---
-[<img class="alignnone size-medium aligncenter" src="http://cdn.nickwhyte.com/static/2012/08/20120818-155715.jpg" alt="20120818-155715.jpg" />][1]
+
+<img class="img-responsive" src="//cdn.nickwhyte.com/2012/08/IMG_0928.jpg" alt="20120818-155715.jpg" />
 
 Goal for today is 20KM. Hopefully I get time and I don&#8217;t run out of sunlight.
 
- [1]: http://cdn.nickwhyte.com/static/2012/08/20120818-155715.jpg

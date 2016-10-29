@@ -3,15 +3,7 @@ title: 'Mix: Spring Alt/Indie 2012'
 author: nickw
 layout: post
 
-enclosure:
-  - |
-    |
-        http://cdn.nickwhyte.com/static/2012/11/November_Alt_Mix.mp3
-        46181807
-        audio/mpeg
-        
-dsq_thread_id:
-  - 942693325
+
 categories:
   - Music
 tags:
@@ -20,7 +12,8 @@ tags:
   - mixtape
   - music
   - remix
-song: http://cdn.nickwhyte.com/static/2012/11/November_Alt_Mix.mp3
+
+song: //cdn.nickwhyte.com/2012/11/November_Alt_Mix.mp3
 ---
 <span style="text-decoration: underline;">Stream</span>
 
@@ -41,6 +34,5 @@ song: http://cdn.nickwhyte.com/static/2012/11/November_Alt_Mix.mp3
 <span style="text-decoration: underline;">Download:</span>
 
   * [Direct Download][1] (Right click, save target/link as)
-  * <a href="http://www.multiupload.nl/8XAWE6TPGW" target="_blank">Mirror</a>
 
- [1]: http://cdn.nickwhyte.com/static/2012/11/November_Alt_Mix.mp3
+ [1]: //cdn.nickwhyte.com/2012/11/November_Alt_Mix.mp3

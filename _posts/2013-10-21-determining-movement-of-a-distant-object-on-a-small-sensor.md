@@ -12,21 +12,13 @@ I took a few pictures of the moon last night, which got me thinking &#8211; how 
 
 I set out to calculate this elongation; however the results weren&#8217;t great, and I know my equations are definitely wrong. The following images outline the process to determine the movement. I will return to this at a later date, and determine how to calculate the movement on a sensor.
 
-<div id='gallery-14' class='gallery galleryid-1292 gallery-columns-2 gallery-size-thumbnail'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://nickwhyte.com/2013/10/21/determining-movement-of-a-distant-object-on-a-small-sensor/img_1849/'><img width="250" height="250" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1849-250x250.jpg" class="attachment-thumbnail" alt="IMG_1849" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon portrait'>
-      <a href='http://nickwhyte.com/2013/10/21/determining-movement-of-a-distant-object-on-a-small-sensor/img_1850/'><img width="250" height="250" src="http://cdn.nickwhyte.com/static/2013/10/IMG_1850-250x250.jpg" class="attachment-thumbnail" alt="IMG_1850" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+<p>
+  <img class="img-responsive center-block" src="//cdn.nickwhyte.com/2013/IMG_1849.jpg" />
+</p>
+<p>
+  <img class="img-responsive center-block" src="//cdn.nickwhyte.com/2013/IMG_1850.jpg" />
+</p>
+
 
 Once completed, I found that the equation can be noted as this through the above working (although incorrect):
 

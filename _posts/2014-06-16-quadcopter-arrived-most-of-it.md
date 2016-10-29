@@ -12,8 +12,8 @@ categories:
 Today a majority of the electronic components of my quadcopter arrived. I received an email from the online shop saying that my order had been dispatched today and they included a tracking number. Upon checking the tracking, it turned out it had actually been posted on the 13th and it was &#8220;Delivered&#8221;. Being curious, I went downstairs, and there it was, a package on my door step. Excellent.
 
 <div class="pull-left">
-  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0002.jpg" class="thumbnail">
-    <img class="wp-image-1408" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" />
+  <a href="//cdn.nickwhyte.com/2014/IMG_0002.jpg" class="thumbnail">
+    <img class="wp-image-1408" src="//cdn.nickwhyte.com/2014/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" />
     <p class="caption text-center">
       The items packed in the box
     </p>
@@ -34,7 +34,7 @@ My package contained:
   * 1x Power Distribution (Which I stupidly bought the one with the wrong plug)
 
 <div id="attachment_1410" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0003.jpg"><img class="wp-image-1410" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
+  <a href="//cdn.nickwhyte.com/2014/IMG_0003.jpg"><img class="wp-image-1410" src="//cdn.nickwhyte.com/2014/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     The contents of my package, laid out
@@ -81,7 +81,9 @@ Basically to send a speed control to the ESC you need to use Pulse Width Modulat
 
 I knew all about how this worked, but had no clue how on earth to communicate within the range the ESC understood. After some light googling, [I found out][2] the range around ESC&#8217;s PWM signal. A width of 700 &#8211; 2000 microseconds is within the working range of a generic ESC.  However the next issue was how to communicate using python using a value of microseconds. I&#8217;m lazy, and using math to turn this into a frequency in Hz unfortunate. Instead it turns out Python/RPi.GPIO has a class in PWM for a servo. It lets you set the value of microseconds directly. Awesome. Here&#8217;s a snippet of my code:
 
-<pre>from RPIO import PWM
+
+{% highlight python %}
+from RPIO import PWM
 import time
 
 max_PWM = 2000
@@ -109,7 +111,9 @@ while True:
  break
 
 servo.stop_servo(MOTOR_1_PIN)
-PWM.cleanup()</pre>
+PWM.cleanup()
+{% endhighlight %}
+
 
 Unfortunately, that didn&#8217;t work. After much head scratching I still hadn&#8217;t worked out how to calibrate the PWM signal to the ESC.
 
@@ -117,7 +121,8 @@ To do a calibration process, you must turn on the GPIO PWM to the maximum signal
 
 I modified my program to be more basic and let me give it any value i wished without the broken calibration code
 
-<pre>from RPIO import PWM
+{% highlight python %}
+from RPIO import PWM
 import time
 
 MOTOR_1_PIN = 25
@@ -134,12 +139,13 @@ while True:
  break
 
 servo.stop_servo(MOTOR_1_PIN)
-PWM.cleanup()</pre>
+PWM.cleanup()
+{% endhighlight %}
 
 To do all this magic with the software I did need to connect everything up, so here are a few images of the current set up
 
 <div id="attachment_1412" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0005.jpg"><img class="wp-image-1412" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
+  <a href="//cdn.nickwhyte.com/2014/IMG_0005.jpg"><img class="wp-image-1412" src="//cdn.nickwhyte.com/2014/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Breadboarding, connecting GPIO to the ESC via an old IDE cable.
@@ -149,7 +155,7 @@ To do all this magic with the software I did need to connect everything up, so h
 &nbsp;
 
 <div id="attachment_1414" style="width: 410px" class="wp-caption aligncenter">
-  <a href="http://cdn.nickwhyte.com/static/2014/06/IMG_0007.jpg"><img class="wp-image-1414" src="http://cdn.nickwhyte.com/static/2014/06/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
+  <a href="//cdn.nickwhyte.com/2014/IMG_0007.jpg"><img class="wp-image-1414" src="//cdn.nickwhyte.com/2014/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Cheap and nasty wooden frame &#8211; soon to be replaced

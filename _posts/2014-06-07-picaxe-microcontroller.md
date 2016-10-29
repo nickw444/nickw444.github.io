@@ -3,8 +3,6 @@ title: Picaxe Microcontroller
 author: nickw
 layout: post
 
-dsq_thread_id:
-  - 2744444137
 categories:
   - Blog
   - Electronics
@@ -18,14 +16,5 @@ The microprocessor is noted as the &#8220;8005&#8221; chip. A chip with 256 byte
 
 Now, whilst writing the emulator, I remembered I had a picaxe micro controller stored away in my cupboard. I brought it down after I was done and started playing. My interest in this also comes about due to my father wanting to read RS232 data off our solar panel inverter and viewing it on his iPad. This is my challenge tomorrow &#8211; this was just the warm up.
 
-I hooked up the picaxe on a breadboard, and wrote a basic program:
+I hooked up the picaxe on a breadboard, and wrote a basic program. However it&#8217;s made me surprisingly happy. I can control a LED via serial communication from my computer.
 
-[<img class="aligncenter size-full wp-image-1350" src="http://cdn.nickwhyte.com/static/2014/06/Screen-Shot-2014-06-08-at-12.08.34-am.png" alt="Screen Shot 2014-06-08 at 12.08.34 am" width="520" height="199" />][1]
-
-<!--more-->
-
-Quite basic. However it&#8217;s made me surprisingly happy. I can control a LED via serial communication from my computer.
-
-
-
- [1]: http://cdn.nickwhyte.com/static/2014/06/Screen-Shot-2014-06-08-at-12.08.34-am.png

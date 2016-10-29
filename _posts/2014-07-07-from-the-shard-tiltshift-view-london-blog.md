@@ -10,10 +10,6 @@ categories:
 tags:
   - instagram
 ---
-<div>
-  <img src='http://cdn.nickwhyte.com/static/2014/07/10475139_1516824018536635_238829566_n.jpg' style='max-width:600px;' /><br /> 
-  
-  <div>
-    via Instagram <a href="http://ift.tt/1sn1Yrc" class="autohyperlink" title="http://ift.tt/1sn1Yrc" target="_blank">ift.tt/1sn1Yrc&#8230;</a>
-  </div>
-</div>
+<p>
+  <img class="img-responsive center-block" src='//cdn.nickwhyte.com/2014/from-the-shard.jpg'/>
+</p>

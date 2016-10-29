@@ -8,10 +8,6 @@ categories:
 tags:
   - instagram
 ---
-<div>
-  <img src='http://cdn.nickwhyte.com/static/2013/07/694a9eeaee6811e282ea22000aeb0b83_7.jpg' style='max-width:600px;' /><br /> 
-  
-  <div>
-    via Instagram <a href="http://instagram.com/p/b2AiDYHkyt/" class="autohyperlink" title="http://instagram.com/p/b2AiDYHkyt/" target="_blank">instagram.com&#8230;</a>
-  </div>
-</div>
+<p>
+  <img src='//cdn.nickwhyte.com/2013/11255390_1444952409138404_199479929_n.jpg' class="img-responsive center-block" />
+</p>

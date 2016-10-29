@@ -9,18 +9,10 @@ categories:
   - Blog
   - Photos
 ---
-<div id='gallery-13' class='gallery galleryid-1280 gallery-columns-2 gallery-size-thumbnail'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://cdn.nickwhyte.com/static/2013/10/IMG_7887.jpg'><img width="250" height="250" src="http://cdn.nickwhyte.com/static/2013/10/IMG_7887-250x250.jpg" class="attachment-thumbnail" alt="IMG_7887" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://cdn.nickwhyte.com/static/2013/10/IMG_7890.jpg'><img width="250" height="250" src="http://cdn.nickwhyte.com/static/2013/10/IMG_7890-250x250.jpg" class="attachment-thumbnail" alt="IMG_7890" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+
+<p>
+  <img class="img-responsive center-block" src="//cdn.nickwhyte.com/2013/IMG_7887.jpg" />
+</p>
+<p>
+  <img class="img-responsive center-block" src="//cdn.nickwhyte.com/2013/IMG_7890.jpg" />
+</p>

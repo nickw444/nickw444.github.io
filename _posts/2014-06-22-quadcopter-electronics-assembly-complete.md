@@ -8,16 +8,18 @@ dsq_thread_id:
 categories:
   - Blog
 images:
-  - { image: 'http://cdn.nickwhyte.com/static/2014/06/2014-06-22-13.46.51.jpg',
+  - { image: '//cdn.nickwhyte.com/2014/2014-06-22-13.46.51.jpg',
       caption: 'Cardboard stopping the bottom of the RPi shorting. Featuring Electrical Tape Mounting'
     }
-  - { image: 'http://cdn.nickwhyte.com/static/2014/06/2014-06-22-13.46.57.jpg',
+  - { image: '//cdn.nickwhyte.com/2014/2014-06-22-13.46.57.jpg',
       caption: 'Electrical Tape Mounting FTW'
     }
-  - { image: 'http://cdn.nickwhyte.com/static/2014/06/2014-06-22-13.47.06.jpg',
+  - { image: '//cdn.nickwhyte.com/2014/2014-06-22-13.47.06.jpg',
       caption: 'Need to find a safer place to house the battery. These things explode.'
     }
+
 youtube: lVxbO1KiBK8
+
 ---
 So far i&#8217;ve almost completed all the electronics components of the quadcopter. I am now waiting for my 5v regulator to arrive. I will use this to drive the Raspberry Pi from the 7.2 Lipoly battery. Once this arrives the quad will be able to become fully wireless (currently 5v power inlet is requiring a cable).
 
