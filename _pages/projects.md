@@ -6,7 +6,7 @@ permalink: /projects/
 menu_order: 2
 menu: default
 ---
-### My works
+### My Projects
 
 I used to spend a tonne of time creating and working on projects from my heart’s desire, however over the past 2 years, life has unfortunately come in the way.
 
