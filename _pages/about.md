@@ -1,8 +1,8 @@
 ---
 layout: page
 hidden_title: true
-title: About Me
-permalink: /about/
+title: Resume
+permalink: /resume/
 menu_order: 1
 menu: default
 ---
