@@ -8,8 +8,8 @@ categories:
   - Programming
 ---
 
-<div class="pull-right hidden-xs" style="font-size:128px; padding: 5px 5px 5px 20px;">🔥💯</div>
-<div class="pull-right hidden-sm hidden-lg hidden-md" style="font-size:68px; padding: 5px 5px 5px 20px;">🔥💯</div>
+<div class="pull-right hidden-xs" style="font-size:128px; padding: 5px 5px 5px 20px;">&#128293;&#128175;</div>
+<div class="pull-right hidden-sm hidden-lg hidden-md" style="font-size:68px; padding: 5px 5px 5px 20px;">&#128293;&#128175;</div>
 
 In 2014, a prediction was accurately made for the Hottest 100 of 2013. The results were posted on [warmest100.com.au](http://warmest100.com.au/).
 
