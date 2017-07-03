@@ -8,7 +8,8 @@
       <div class="blog-subtitle">{{ site.description }}</div>
       <div class="blog-menu">
           <ul>
-              <li class="node-link {% if page.url == '/index.html' %}current_page_item{% endif %}"><a href="/">Blog</a></li>
+              <li class="node-link {% if page.url == '/about/' %}current_page_item{% endif %}"><a href="/about/">About</a></li>
+              <li class="node-link {% if page.url == '/' %}current_page_item{% endif %}"><a href="/">Blog</a></li>
               {% assign sorted_pages = (site.pages | sort: 'menu_order') %}
               {% for node in sorted_pages %}
                 {% if node.menu == 'default' %}
@@ -19,6 +20,7 @@
                   {{ node.next}}
                 {% endif %}
               {% endfor %}
+              <li class="divider"></li>
               <li><a target="_blank" href="//twitter.com/{{ site.twitter_username }}">Twitter</a></li>
               <li><a target="_blank" href="//github.com/{{ site.github_username }}">Github</a></li>
           </ul>

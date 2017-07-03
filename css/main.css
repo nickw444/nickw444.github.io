@@ -3,13 +3,13 @@ body {font-family: "Open Sans"}
 body {padding-top:50px;}
 .left-column .profile-image-container img {border-radius: 100px; border:1px solid #ccc;}
 .left-column {text-align: center;}
-.left-column .profile-details .blog-title {font-style: italic; font-size: 16px; margin:20px 0 20px 0;}
+.left-column .profile-details .blog-title {font-style: italic; font-size: 16px; margin:20px 0 10px 0;}
 .left-column .profile-details .blog-title a {color:#000;}
-.left-column .profile-details .blog-title a:hover, 
-.left-column .profile-details .blog-title  a:active, 
+.left-column .profile-details .blog-title a:hover,
+.left-column .profile-details .blog-title  a:active,
 .left-column .profile-details .blog-title  a:visited {color:#000; text-decoration: none;}
 
-.left-column .profile-details .blog-subtitle {font-weight: 100; margin:20px 0 20px 0; color: #999}
+.left-column .profile-details .blog-subtitle {font-weight: 100; margin:10px 0 20px 0; color: #999}
 
 
 .left-column .blog-menu ul {padding-left:0;}
@@ -31,6 +31,7 @@ h2 {font-size: 14px; font-weight: lighter; margin:10px 0 20px 0;}
 .post-content .alignleft {float:left; margin-right:20px;}
 .post-content .aligncenter {margin:0 auto;}
 .post-content ol {margin-bottom:20px;}
+.post-content li {padding-bottom: 8px;}
 
 .post-content .wp-caption { background-color: #eee; border:1px solid #ddd; text-align: center; margin:20px;}
 .post-content .wp-caption.aligncenter { margin:0 auto; margin-top:20px; margin-bottom:20px;}
@@ -42,19 +43,17 @@ h2 {font-size: 14px; font-weight: lighter; margin:10px 0 20px 0;}
 
 
 
-@media screen and (min-width: 768px) { 
-    
+@media screen and (min-width: 768px) {
     .left-column {margin-top:100px;}
     .content-column {margin-top:100px; padding-left:30px;}
 }
 
-@media screen and (max-width: 767px) { 
+@media screen and (max-width: 767px) {
     body {padding-top:20px;}
     .left-column .blog-menu li {padding:0; display:inline-block; margin-left: 5px; margin-right: 10px;}
     .left-column .profile-details .blog-title {margin:5px 0 5px 0;}
     .left-column .profile-details .blog-subtitle {margin:5px 0 5px 0;}
     #wpadminbar {position: fixed !important}
-
 }
 
 

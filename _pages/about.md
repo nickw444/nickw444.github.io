@@ -1,10 +1,10 @@
 ---
 layout: page
 hidden_title: true
-title: Resume
-permalink: /resume/
+title: About
+permalink: /about/
 menu_order: 1
-menu: default
+menu: none
 ---
 
 ### Hey there!
@@ -14,26 +14,24 @@ I'm Nick, studying Computer Science at UNSW.
 I enjoy programming a lot. I love complex problems and challenges, and things that give me something new and interesting to work on.
 
 ##### Languages I Know Well:
+* JavaScript ES6/7 + NodeJS + React / Redux
 * Python / Python + Flask
-* JavaScript ES6/7 + NodeJS
-* JavaScript Frontend, JavaScript (jQuery), HTML, CSS, CSS (LESS), React
-* Objective C / Foundation/Cocoa
+* SQL (MySQL/MariaDB, SQLite, PostgreSQL)
+* Objective C / Cocoa
 * C
 * Go!
 * Bash / Shell Scripting
 * Java
-* PHP
-* SQL (MySQL, SQLite)
 
 ##### Technologies I'm Confident With:
 * Redis
 * MongoDB
 * Elasticsearch
 * Docker
-* AWS Kinesis, AWS EC2, AWS Cloudformation, AWS DynamoDB
+* Various AWS Services
 
 
-If you want to know more about me, or my technical background, I advise you take a look at [my resume](http://nickwhyte.com/resume/).
+If you want to know more about me, or my technical background, take a look at [my resume](http://nickwhyte.com/resume/).
 
 ### Contact Me?
 Feel free to [email me](mailto:nick@nickwhyte.com), or&nbsp;[tweet me](https://twitter.com/nickw444).
