@@ -1,0 +1,97 @@
+projects:
+  # - repo:
+  #   url:
+  #   title:
+  #   description:
+  #   language:
+
+  - repo: nickw444/homekit
+    title: Homekit
+    language: C++, Golang
+    featured: true
+
+  - repo: nickw444/flask-ldap3-login
+    title: Flask LDAP3 Login
+    language: Python, Travis CI
+    featured: true
+
+  - url: https://nickwhyte.com/100-warm-tunas-2016/
+    title: 100 Warm Tunas
+    description: Yearly Prediction of Triple J's Hottest 100 using OCR. (Run in 2015, 2016)
+    language: Python, SQLite
+    featured: true
+
+  - repo: nickw444/genius-bar-mailer
+    title: Genius Bar Mailer
+
+  - repo: nickw444/strava-fixer
+    title: Strava Fixer
+
+  - repo: nickw444/pingwatcher
+    title: Pingwatcher
+    language: NodeJS, Elasticsearch, Docker
+
+  - repo: nickw444/flatten-music
+    title: Flatten Music
+    language: Shell, Python
+
+  - repo: nickw444/SQLAlchemy-UTCDateTime
+
+  - repo: nickw444/docker-ui
+    language: JS, React
+
+  - repo: nickw444/Mediabrowser
+    language: Python, Flask, Docker
+
+  - repo: nickw444/sploitn
+    language: Python, Flask, Docker
+
+  - repo: nickw444/Sprinkle
+    language: Objective C (iOS), Python
+
+  - repo: nickw444/wtforms-webwidgets
+    language: Python, Travis CI
+
+  - repo: nickw444/Where-Is-Richard
+    language: Python, Flask
+
+  - repo: nickw444/crappy-snap
+    language: Python, Flask
+
+  - repo: nickw444/playlist-grabber
+    language: Objective C (MacOS)
+
+  - repo: nickw444/flask-phantom-emoji
+    language: Python, Flask (Library)
+
+  - repo: nickw444/SiriProxyGUI
+    language: Python, Flask (Library)
+
+contributions:
+  # https://github.com/pulls?q=is%3Apr+author%3Anickw444+-user%3ACanva+-user%3Anickw444+-user%3Atwopicode+-user%3Ajake-waratahs+is%3Aopen
+  - pull: mitsuhiko/flask-sqlalchemy#250
+    issue: https://github.com/mitsuhiko/flask-sqlalchemy/issues/98
+    description: Use Raw SQLAlchemy models with Flask-Sqlalchemy
+  - pull: https://github.com/pyapi-gitlab/pyapi-gitlab/pull/112
+  - pull: https://github.com/inveniosoftware/flask-menu/pull/33
+  - pull: https://github.com/SnoringFrog/GitlabIntegrate/pull/7
+  - pull: https://github.com/alecthomas/kingpin/pull/99
+  - pull: https://github.com/mitsuhiko/flask-sqlalchemy/pull/416
+    issue: https://github.com/mitsuhiko/flask-sqlalchemy/issues/401
+  - pull: https://github.com/onelogin/python3-saml/pull/41
+    issue: https://github.com/onelogin/python3-saml/issues/40
+
+  - pull: https://github.com/ternjs/tern_for_sublime/pull/163
+  - pull: https://github.com/CySCA/CySCA2015/pull/1
+
+  # https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Anickw444+-user%3Anickw444+is%3Aclosed+-user%3Ajake-waratahs++-user%3Ajesseau+-user%3ATwoPiCode
+  - issue: https://github.com/marshmallow-code/marshmallow-sqlalchemy/issues/67
+  - issue: https://github.com/marshmallow-code/marshmallow/issues/453
+  - issue: https://github.com/olivere/elastic/issues/225
+  - issue: https://github.com/cannatag/ldap3/issues/113
+  - issue: https://github.com/mikebuss/MTBBarcodeScanner/issues/48
+  - issue: https://github.com/mikebuss/MTBBarcodeScanner/issues/47
+  - issue: https://github.com/caleb531/jcanvas/issues/163
+
+
+
