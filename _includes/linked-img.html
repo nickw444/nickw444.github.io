@@ -1,0 +1,14 @@
+{% if include.caption %}
+<div style="margin: 20px 0;">
+    <a href="{{include.src}}">
+        <img src="{{include.src}}" class="img-responsive" alt="{{include.alt}}" />
+    </a>
+    <div style="font-size:14px; margin-top: 5px; text-align: center;">{{ include.caption }}</div>
+</div>
+{% else %}
+<a href="{{include.src}}">
+    <img src="{{include.src}}" class="img-responsive" alt="{{include.alt}}" />
+</a>
+{% endif %}
+
+<!-- { %include linked-img.html src="" alt="" caption="" % } -->
