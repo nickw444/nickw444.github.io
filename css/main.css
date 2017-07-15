@@ -66,3 +66,20 @@ h2 {font-size: 14px; font-weight: lighter; margin:10px 0 20px 0;}
     padding-top:20px;
     border-top:1px solid #ccc;
 }
+
+
+.projectList { display: flex; flex-wrap: wrap; justify-content: space-between; }
+.projectList__project { color: #000; border: 1px solid #ccc; padding: 15px; width: 49%; margin-bottom: 15px; transition: 0.3s transform, 0.3s box-shadow; }
+.projectList__project:hover,
+.projectList__project:active,
+.projectList__project:focus,
+.projectList__project:visited { color: #000; text-decoration: none}
+.projectList__project:hover { transform: scale(1.01); box-shadow: 0px 0px 5px rgba(0,0,0,0.1) }
+
+.projectList__projectTitle {}
+.projectList__projectDescription { font-size: 0.7em; margin-bottom: 5px; }
+.projectList__projectLanguage { font-size: 0.7em; color: #888;}
+@media screen and (max-width: 767px) {
+    .projectList__project { width: 100%; }
+}
+
