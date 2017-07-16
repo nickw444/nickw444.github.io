@@ -63,7 +63,7 @@ I purchased a 433MHz transmitter/receiver pair for Arduino on [Ebay](http://www.
 
 A handful of Google searches didn't yield many results for finding a technical specification of the protocol RAEX were using.
 
-- I could not find any technical specification of the protocol via patent lookup
+- I could not find any technical specification of the protocol via FCC or patent lookup
 - Emailed RM Pro to obtain technical specification; they did not understand my English.
 - Emailed RAEX to obtain technical specification; they would not release without confidentiality agreement.
 - I did find that [RFXTRX](http://www.rfxcom.com/) was able to control the blind via their BlindsT4 mode, which appears to also work for _Outlook Motion Blinds_.
