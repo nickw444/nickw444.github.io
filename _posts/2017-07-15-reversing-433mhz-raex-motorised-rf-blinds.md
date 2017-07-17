@@ -72,9 +72,9 @@ A handful of Google searches didn't yield many results for finding a technical s
 
 ### Capturing the data
 
-Once my package had arrived I hooked up the receiver to an Arduino and began searching for an Arduino sketch that could capture the data being transmitted. I tried [many things](https://www.liwen.id.au/arduino-rf-codes/) that all failed, however eventually [found one](https://github.com/nickw444/homekit/blob/00320c30f927334d28339eac0aa2e74e6ffc11ea/blindkit/esp-firmware/src/main.cpp) that appeared to capture the data.
+Once my package had arrived I hooked up the receiver to an Arduino and began searching for an Arduino sketch that could capture the data being transmitted. I tried [many things](https://www.liwen.id.au/arduino-rf-codes/) that all failed, however eventually [found one](https://github.com/nickw444/homekit/blob/master/blindkit/sketches/receive_manchester.ino) that appeared to capture the data.
 
-Once I captured what I deemed to be enough data, I began [analysing it](https://gist.github.com/nickw444/3f2d6cc153eb0c53ea02e91f2312a8ac). It was really difficult to make any sense of this data, and I didn't even know if what had been captured was correct.
+Once I captured what I deemed to be enough data, I began [analysing it](https://github.com/nickw444/homekit/blob/master/blindkit/research/initial-captures-analysis.txt). It was really difficult to make any sense of this data, and I didn't even know if what had been captured was correct.
 
 I did [some](http://mightydevices.com/?p=300) [further](http://rayshobby.net/?p=3381) [reading](http://rayshobby.net/interface-with-remote-power-sockets-final-version/) and read a few RF reverse engineering write-ups. A lot of them experimented with the idea of using Audacity to capture the signal via the receiver plugged into the microphone port of the computer. I thought, why not, and began working on this.
 
@@ -164,7 +164,7 @@ Once verified, I tabulated this data and inserted it into my spreadsheet for fur
 
   {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-raw-captures.png" alt="Raw captures inside a spreadsheet" %}
 
-I decided it would be best if I decoded this as manchester. To do this, I [wrote a script](https://github.com/nickw444/homekit/blob/00320c30f927334d28339eac0aa2e74e6ffc11ea/blindkit/rf-process/tabulate.py) that processes the raw capture data into manchester (or other encoding types). Migrating this data into my spreadsheet, it begins to make a lot more sense.
+I decided it would be best if I decoded this as manchester. To do this, I [wrote a script](https://github.com/nickw444/homekit/blob/master/blindkit/rf-process/tabulate.py) that processes the raw capture data into manchester (or other encoding types). Migrating this data into my spreadsheet, it begins to make a lot more sense.
 
   {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-manchester-1.png" alt="Manchester captures inside a spreadsheet" %}
 
