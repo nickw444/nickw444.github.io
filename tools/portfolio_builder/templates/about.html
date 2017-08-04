@@ -1,0 +1,44 @@
+---
+layout: page
+hidden_title: true
+title: About
+permalink: /about/
+menu_order: 1
+menu: none
+---
+
+<h3>Hey there!</h3>
+
+<p>I'm Nick, A frontend engineer at <a href="https://canva.com/">Canva</a>.</p>
+
+<p>I enjoy programming a lot. I love complex problems and challenges, and things that give me something new and interesting to work on.</p>
+
+
+<h5>Projects</h5>
+<div class="projectList">
+    {% for project in projects %}
+        <a href="https://github.com/nickw444/homekit" class="projectList__project projectList__project--scaling {% if project.featured %}projectList__project--featured{% endif %}" target="_blank">
+            <div class="projectList__projectTitle">{{project.title}}</div>
+            <div class="projectList__projectDescription">{{project.description}}</div>
+            {% if project.languages and project.featured -%}
+                <div class="projectList__projectLanguage">{{ project.languages | join(', ')}}</div>
+            {% endif -%}
+        </a>
+    {% endfor %}
+</div>
+
+<h5>Contributions</h5>
+<div class="projectList ">
+    {% for contribution in contributions %}
+        <div class="projectList__project projectList__project--contribution">
+            <div class="projectList__projectDescription">{{contribution.description}}</div>
+            <div class="projectList__contributionLinks">
+                {% if contribution.pull %}<a target="_blank" href="{{ contribution.pull }}">Pull</a>{% endif %}
+                {% if contribution.issue %}<a target="_blank" href="{{ contribution.issue }}">Issue</a>{% endif %}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
+<h3>Contact Me?</h3>
+<p>Feel free to <a href="mailto:nick@nickwhyte.com">email me</a>, or <a href="https://twitter.com/nickw444">tweet me</a>.</p>

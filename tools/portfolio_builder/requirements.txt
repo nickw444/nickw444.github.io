@@ -1,0 +1,3 @@
+PyGitHub
+PyYaml
+jinja2
