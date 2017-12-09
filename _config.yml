@@ -15,4 +15,4 @@ permalink: '/post/:year/:title/'
 markdown: kramdown
 include: ['_pages']
 exclude: ['tools']
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-redirect-from]
