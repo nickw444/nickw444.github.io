@@ -4,7 +4,7 @@
         <abbr class="published" title="{{ page.date | date: "%Y-%m-%dT%H:%M" }}">
             {{ page.date | date: "%B %-d, %Y" }}
         </abbr>
-        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %} • <a href="{{ page.url }}#disqus_thread"></a>
+        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
     </h2>
     <div class="post-content">
         {{ page.content | split:'<!--break-->' | first }}
