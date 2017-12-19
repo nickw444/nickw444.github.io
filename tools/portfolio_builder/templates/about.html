@@ -17,7 +17,7 @@ menu: none
 <h5>Projects</h5>
 <div class="projectList">
     {% for project in projects %}
-        <a href="https://github.com/nickw444/homekit" class="projectList__project projectList__project--scaling {% if project.featured %}projectList__project--featured{% endif %}" target="_blank">
+        <a href="{{project.url}}" class="projectList__project projectList__project--scaling {% if project.featured %}projectList__project--featured{% endif %}" target="_blank">
             <div class="projectList__projectTitle">{{project.title}}</div>
             <div class="projectList__projectDescription">{{project.description}}</div>
             {% if project.languages and project.featured -%}

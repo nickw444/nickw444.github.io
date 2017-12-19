@@ -16,10 +16,14 @@ def main():
 
     data = ConfigFile.deserialize(json.load(data_file))
 
+    projects = data.projects
+    for project in projects:
+        print(project)
+
     about_template = Template(open('templates/about.html').read())
     output_file = open(args.output, 'w')
     output_file.write(about_template.render(
-        projects=data.projects,
+        projects=projects,
         contributions=data.contributions
     ))
 

@@ -2,12 +2,13 @@ from typing import Dict, List
 
 class Project():
     def __init__(self, repo: str, title: str, languages: List[str],
-                 featured: bool, description: str) -> None:
+                 featured: bool, description: str, url: str) -> None:
         self.repo = repo
         self.title = title
         self.languages = languages
         self.featured = featured
         self.description = description
+        self.url = url
 
     @staticmethod
     def deserialize(data: Dict) -> 'Project':
@@ -16,7 +17,8 @@ class Project():
             title=data.get('title'),
             languages=data.get('languages'),
             featured=data.get('featured', False),
-            description=data.get('description')
+            description=data.get('description'),
+            url=data.get('url'),
         )
 
     def serialize(self) -> Dict:
@@ -25,7 +27,8 @@ class Project():
             'title': self.title,
             'languages': self.languages,
             'featured': self.featured,
-            'description': self.description
+            'description': self.description,
+            'url': self.url,
         }
 
     def __repr__(self) -> str:

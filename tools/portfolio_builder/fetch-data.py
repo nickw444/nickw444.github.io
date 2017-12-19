@@ -31,7 +31,7 @@ def main():
             logger.info('Fetching additional info for {}'.format(project.repo))
             try:
                 gh_repo = g.get_repo(project.repo)
-
+                project.url = gh_repo.html_url
                 # Fill out any extra info we can fetch
                 if project.languages is None:
                     if gh_repo.language:
