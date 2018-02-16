@@ -8,6 +8,10 @@ categories:
   - Programming
 ---
 
+<div class="pull-right hidden-xs" style="font-size:100px; padding: 5px 5px 5px 20px;">&#128293;&#128175;</div>
+<div class="pull-right hidden-sm hidden-lg hidden-md" style="font-size:68px; padding: 5px 5px 5px 20px;">&#128293;&#128175;</div>
+
+
 Over the space of 6 weeks, [100 Warm Tunas](https://100-warm-tunas.nickwhyte.com/2017/) collected a large sum of data and chugged away at it to make some predictions about what the Hottest 100 of 2017 would look like. Along the way we encountered [a bug](http://127.0.0.1:4000/post/2018/100-warm-tunas-2017-update/) in the collection process, however data was backfilled and showed that I had collected a sample size around the same as in [2016](https://100-warm-tunas.nickwhyte.com/2016/).
 
 ### Summary
