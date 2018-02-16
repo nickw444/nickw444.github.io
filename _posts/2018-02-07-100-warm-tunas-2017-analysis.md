@@ -8,7 +8,21 @@ categories:
   - Programming
 ---
 
-Over the space of 6 weeks, 100 Warm Tunas collected a large sum of data and chugged away at it to make some predictions about what the Hottest 100 of 2017 would look like. Along the way we encountered a bug in the collection process, however data was backfilled and showed that I had collected a sample size around the same as in 2016. ()
+Over the space of 6 weeks, [100 Warm Tunas](https://100-warm-tunas.nickwhyte.com/2017/) collected a large sum of data and chugged away at it to make some predictions about what the Hottest 100 of 2017 would look like. Along the way we encountered [a bug](http://127.0.0.1:4000/post/2018/100-warm-tunas-2017-update/) in the collection process, however data was backfilled and showed that I had collected a sample size around the same as in [2016](https://100-warm-tunas.nickwhyte.com/2016/).
+
+### Summary
+
+- 100 Warm Tunas collected **7,216 entries** (7.3% less than 2016 🔻)
+- 100 Warm Tunas tallied **67,085** votes across these entries (2.6% more than 2017 🔺). This is due to improvements in 100 Warm Tunas' counting and recognition process. 
+- Triple J counted **2,386,133 votes**.
+- Therefore, 100 Warm Tunas, collected a sample of **2.8%**. Not bad! (The same as in 2016).
+- Warm Tunas predicted **8 out of the top 10 songs** (Same as 2016) (Ignoring order)
+- Warm Tunas predicted **16 out of the top 20 songs** (3 less than in 2016, where 19 out of 20 were predicted) (Ignoring order).
+- Warm Tunas predicted **83 out of the 100 songs** played in the countdown. (1 less than in 2016) (Ignoring order)
+
+Overall, even though the sample size was reasonably consistent between 2016 and 2017, it is clear that the results collected in 2016 were more accurate.  
+
+### Technical Analysis
 
 The results this year definitely show a more accurate 1st place prediction (predicting HUMBLE. to win), as opposed to last year where the top two positions were placed out of order, however looking at the data, it looks as though all other aspects of the prediction stayed almost the same.
 
@@ -57,9 +71,25 @@ So from the above data, it's apparent that once again:
 
   - The average error for the top ten ranks was `2.2` positions (an increase from 2016's `1.9` positions)
   - Warm Tunas predicted **8 out of the top 10 songs**
+  - Warm Tunas predicted **16 out of the top 20 songs**
   - Warm Tunas predicted **83 out of the 100 songs** played in the countdown.
 
 That's not a bad result at all!
+
+The average rank prediction error, grouped into divisions of 10 is provided below. It shows that it's difficult to predict where songs will place once you leave the top 50:
+
+| ABC Position | Warm Tunas Avg Error |
+| --- | --- |
+| 1-10 | 1.9000 |
+| 11-20 | 8.2000 |
+| 21-30 | 14.3000 |
+| 31-40 | 12.5000 |
+| 41-50 | 15.2000 |
+| 51-60 | 24.7000 |
+| 61-70 | 18.2000 |
+| 71-80 | 29.9000 |
+| 81-90 | 34.1000 |
+| 91-100 | 29.5000 |
 
 To compare Warm Tuna's predictions vs actual rankings, a scatter plot has been provided below. We can see as we get
 closer to rank 1, the 100 Warm Tunas prediction gets better and converges upon the actual rankings played out on the day.
@@ -68,6 +98,6 @@ closer to rank 1, the 100 Warm Tunas prediction gets better and converges upon t
     <iframe width="640" height="480" frameborder="0" scrolling="no" src="//plot.ly/~nickw444/3.embed"></iframe>
 </div>
 
-Fortunately this year around, 100 Warm Tunas was able to successfully predict the winner of the countdown. The reason this prediction was able to be made was because the sample collected clearly indicated HUMBLE. as an outlier. – an entire 5% higher than the next track, predicted to place 2nd.
+Fortunately this year around, 100 Warm Tunas was able to successfully predict the winner of the countdown. The reason this prediction was able to be made was because the sample collected clearly indicated *HUMBLE.* as an outlier. – an entire 5% higher than the next track, predicted to place 2nd.
 
 Anyway, that's a wrap. See you later this year for 100 Warm Tunas 2018 edition!
