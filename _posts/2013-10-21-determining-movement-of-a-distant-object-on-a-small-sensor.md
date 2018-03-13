@@ -13,10 +13,10 @@ I took a few pictures of the moon last night, which got me thinking &#8211; how 
 I set out to calculate this elongation; however the results weren&#8217;t great, and I know my equations are definitely wrong. The following images outline the process to determine the movement. I will return to this at a later date, and determine how to calculate the movement on a sensor.
 
 <p>
-  <img class="img-responsive center-block" src="//cdn.nickwhyte.com/2013/IMG_1849.jpg" />
+  <img class="img-responsive center-block" src="/static/legacy/2013/IMG_1849.jpg" />
 </p>
 <p>
-  <img class="img-responsive center-block" src="//cdn.nickwhyte.com/2013/IMG_1850.jpg" />
+  <img class="img-responsive center-block" src="/static/legacy/2013/IMG_1850.jpg" />
 </p>
 
 

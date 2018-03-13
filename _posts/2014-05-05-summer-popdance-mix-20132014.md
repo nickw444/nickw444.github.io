@@ -9,7 +9,7 @@ categories:
   - Blog
   - Music
 
-song: //cdn.nickwhyte.com/2014/Summer_Mix_2.mp3
+song: //static.nickwhyte.com/mixes/Summer_Mix_2.mp3
 ---
 
 
@@ -19,4 +19,4 @@ song: //cdn.nickwhyte.com/2014/Summer_Mix_2.mp3
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //cdn.nickwhyte.com/2014/Summer_Mix_2.mp3
+ [1]: //static.nickwhyte.com/mixes/Summer_Mix_2.mp3

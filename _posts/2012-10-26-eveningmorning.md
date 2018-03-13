@@ -10,4 +10,4 @@ categories:
 ---
 
 
-<img class="img-responsive" title="Evening/Morning" src="//cdn.nickwhyte.com/2012/10/IMG_4875.jpg" alt="" width="750" height="500" />
+<img class="img-responsive" title="Evening/Morning" src="/static/legacy/2012/10/IMG_4875.jpg" alt="" width="750" height="500" />

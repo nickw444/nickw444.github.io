@@ -6,7 +6,7 @@ layout: post
 categories:
   - Blog
   - Music
-song: //cdn.nickwhyte.com/2014/Winter_Mix_2012.mp3
+song: //static.nickwhyte.com/mixes/Winter_Mix_2012.mp3
 ---
 
 {% include stream_song.html %}
@@ -15,4 +15,4 @@ song: //cdn.nickwhyte.com/2014/Winter_Mix_2012.mp3
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //cdn.nickwhyte.com/2014/Winter_Mix_2012.mp3
+ [1]: //static.nickwhyte.com/mixes/Winter_Mix_2012.mp3

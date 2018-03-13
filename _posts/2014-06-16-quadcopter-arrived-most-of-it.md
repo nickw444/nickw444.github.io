@@ -12,8 +12,8 @@ categories:
 Today a majority of the electronic components of my quadcopter arrived. I received an email from the online shop saying that my order had been dispatched today and they included a tracking number. Upon checking the tracking, it turned out it had actually been posted on the 13th and it was &#8220;Delivered&#8221;. Being curious, I went downstairs, and there it was, a package on my door step. Excellent.
 
 <div class="pull-left">
-  <a href="//cdn.nickwhyte.com/2014/IMG_0002.jpg" class="thumbnail">
-    <img class="wp-image-1408" src="//cdn.nickwhyte.com/2014/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" />
+  <a href="/static/legacy/2014/IMG_0002.jpg" class="thumbnail">
+    <img class="wp-image-1408" src="/static/legacy/2014/IMG_0002.jpg" alt="The items packed in the box" width="213" height="160" />
     <p class="caption text-center">
       The items packed in the box
     </p>
@@ -34,7 +34,7 @@ My package contained:
   * 1x Power Distribution (Which I stupidly bought the one with the wrong plug)
 
 <div id="attachment_1410" style="width: 410px" class="wp-caption aligncenter">
-  <a href="//cdn.nickwhyte.com/2014/IMG_0003.jpg"><img class="wp-image-1410" src="//cdn.nickwhyte.com/2014/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
+  <a href="/static/legacy/2014/IMG_0003.jpg"><img class="wp-image-1410" src="//cdn.nickwhyte.com/2014/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     The contents of my package, laid out
@@ -77,7 +77,7 @@ It was a time consuming process learning how to communicate with the ESC&#8217;s
 
 Basically to send a speed control to the ESC you need to use Pulse Width Modulation. This is a signal of a square wave. It has two variable parameters; the period and the duty. The period is the frequency and the duty is how long a pulse is to stay high for.
 
-<img class="aligncenter" src="//cdn.nickwhyte.com/2014/AVR_PWM.png" alt="" width="444" height="238" />
+<img class="aligncenter" src="/static/legacy/2014/AVR_PWM.png" alt="" width="444" height="238" />
 
 I knew all about how this worked, but had no clue how on earth to communicate within the range the ESC understood. After some light googling, [I found out][2] the range around ESC&#8217;s PWM signal. A width of 700 &#8211; 2000 microseconds is within the working range of a generic ESC.  However the next issue was how to communicate using python using a value of microseconds. I&#8217;m lazy, and using math to turn this into a frequency in Hz unfortunate. Instead it turns out Python/RPi.GPIO has a class in PWM for a servo. It lets you set the value of microseconds directly. Awesome. Here&#8217;s a snippet of my code:
 
@@ -145,7 +145,7 @@ PWM.cleanup()
 To do all this magic with the software I did need to connect everything up, so here are a few images of the current set up
 
 <div id="attachment_1412" style="width: 410px" class="wp-caption aligncenter">
-  <a href="//cdn.nickwhyte.com/2014/IMG_0005.jpg"><img class="wp-image-1412" src="//cdn.nickwhyte.com/2014/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
+  <a href="/static/legacy/2014/IMG_0005.jpg"><img class="wp-image-1412" src="//cdn.nickwhyte.com/2014/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Breadboarding, connecting GPIO to the ESC via an old IDE cable.
@@ -155,7 +155,7 @@ To do all this magic with the software I did need to connect everything up, so h
 &nbsp;
 
 <div id="attachment_1414" style="width: 410px" class="wp-caption aligncenter">
-  <a href="//cdn.nickwhyte.com/2014/IMG_0007.jpg"><img class="wp-image-1414" src="//cdn.nickwhyte.com/2014/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
+  <a href="/static/legacy/2014/IMG_0007.jpg"><img class="wp-image-1414" src="//cdn.nickwhyte.com/2014/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Cheap and nasty wooden frame &#8211; soon to be replaced

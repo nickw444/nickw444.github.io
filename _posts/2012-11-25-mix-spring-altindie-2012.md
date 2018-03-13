@@ -13,7 +13,7 @@ tags:
   - music
   - remix
 
-song: //cdn.nickwhyte.com/2012/11/November_Alt_Mix.mp3
+song: //static.nickwhyte.com/mixes/November_Alt_Mix.mp3
 ---
 <span style="text-decoration: underline;">Stream</span>
 
@@ -35,4 +35,4 @@ song: //cdn.nickwhyte.com/2012/11/November_Alt_Mix.mp3
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //cdn.nickwhyte.com/2012/11/November_Alt_Mix.mp3
+ [1]: //static.nickwhyte.com/mixes/November_Alt_Mix.mp3
