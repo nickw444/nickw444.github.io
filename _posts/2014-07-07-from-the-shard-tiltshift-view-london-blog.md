@@ -7,8 +7,6 @@ dsq_thread_id:
   - 2826182652
 categories:
   - Photos
-tags:
-  - instagram
 ---
 <p>
   <img class="img-responsive center-block" src='/static/legacy/2014/from-the-shard.jpg'/>

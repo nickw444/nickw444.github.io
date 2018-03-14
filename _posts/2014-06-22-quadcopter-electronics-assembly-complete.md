@@ -7,6 +7,8 @@ dsq_thread_id:
   - 2785295561
 categories:
   - Blog
+  - Electronics
+
 images:
   - { image: '/static/legacy/2014/2014-06-22-13.46.51.jpg',
       caption: 'Cardboard stopping the bottom of the RPi shorting. Featuring Electrical Tape Mounting'

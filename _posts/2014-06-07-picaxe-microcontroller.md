@@ -18,3 +18,6 @@ Now, whilst writing the emulator, I remembered I had a picaxe micro controller s
 
 I hooked up the picaxe on a breadboard, and wrote a basic program. However it&#8217;s made me surprisingly happy. I can control a LED via serial communication from my computer.
 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/cXxUfDLlmUI" frameborder="0" allowfullscreen></iframe>
+</div>
