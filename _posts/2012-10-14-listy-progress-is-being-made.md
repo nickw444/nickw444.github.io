@@ -8,12 +8,6 @@ dsq_thread_id:
 categories:
   - Blog
   - Programming
-tags:
-  - ios
-  - iPhone
-  - listy
-  - programming
-  - projects
 ---
 So, as shown in my previous post, my app &#8216;Listy&#8217; was recently approved on the app store. The initial release had a bug for all iOS5 users, causing it to crash, but I released version 1.02 to fix this.
 
