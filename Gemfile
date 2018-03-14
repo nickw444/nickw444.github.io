@@ -11,3 +11,4 @@ gem "jekyll-paginate", "~> 1.1"
 
 # Added at 2018-02-16 20:20:12 +1100 by nickw:
 gem "jekyll-redirect-from", "~> 0.13.0"
+gem 'html-proofer'

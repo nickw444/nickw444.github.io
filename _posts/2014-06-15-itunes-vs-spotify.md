@@ -23,4 +23,4 @@ I ended up settling for dragging and dropping playlists into Spotify. The flow w
 
 Tedious, especially for 300 playlists. I&#8217;m not even sure if I can be bothered to export my entire library to a service I may not use forever. Anyway, we will see where I go with Spotify, and maybe I&#8217;ll end up building the tool that I previously wrote about [here][1].
 
- [1]: http://nickwhyte.com/2014/06/13/bridging-the-gap-itunes-to-android/ "Bridging the Gap: iTunes to Android"
+ [1]: /post/2014/bridging-the-gap-itunes-to-android/ "Bridging the Gap: iTunes to Android"

@@ -310,6 +310,6 @@ I now can generate any remote I deem necessary using this tool.
 
 There you have it, that's how I reverse engineered an unknown protocol. I plan to follow up this post with some additional home-automation oriented blog posts in the future.
 
-From here I'm going to need to build my transmitter to transmit my new, generated codes and build an interface into homekit for this via my [homebridge](https://github.com/nickw444/homekit/tree/master/bridge) program.
+From here I'm going to need to build my transmitter to transmit my new, generated codes and build an interface into homekit for this via my [homebridge](https://github.com/nickw444/homekit/tree/master/bridges/mainbridge) program.
 
 You can view all the work related to this project in the [nickw444/homekit/blindkit](https://github.com/nickw444/homekit/tree/master/blindkit) repo.
