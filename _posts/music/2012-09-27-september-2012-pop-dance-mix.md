@@ -7,7 +7,7 @@ categories:
   - Blog
   - Music
 
-song: //static.nickwhyte.com/mixes/2012-09-27_september_party_dance_mix.mp3
+song: https://static.nickwhyte.com/mixes/2012-09-27_september_party_dance_mix.mp3
 ---
 
 {% include stream_song.html %}
@@ -16,4 +16,4 @@ song: //static.nickwhyte.com/mixes/2012-09-27_september_party_dance_mix.mp3
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //static.nickwhyte.com/mixes/2012-09-27_september_party_dance_mix.mp3
+ [1]: https://static.nickwhyte.com/mixes/2012-09-27_september_party_dance_mix.mp3

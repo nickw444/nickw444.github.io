@@ -7,7 +7,7 @@ categories:
   - Blog
   - Music
 
-song: //static.nickwhyte.com/mixes/2014-05-13_winter_pop_dance_live_mix.mp3
+song: https://static.nickwhyte.com/mixes/2014-05-13_winter_pop_dance_live_mix.mp3
 ---
 {% include stream_song.html %}
 
@@ -15,4 +15,4 @@ song: //static.nickwhyte.com/mixes/2014-05-13_winter_pop_dance_live_mix.mp3
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //static.nickwhyte.com/mixes/2014-05-13_winter_pop_dance_live_mix.mp3
+ [1]: https://static.nickwhyte.com/mixes/2014-05-13_winter_pop_dance_live_mix.mp3

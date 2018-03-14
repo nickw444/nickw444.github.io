@@ -7,7 +7,7 @@ categories:
   - Blog
   - Music
 
-song: //static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
+song: https://static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
 ---
 <span style="text-decoration: underline;">Stream</span>
 
@@ -29,4 +29,4 @@ song: //static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
+ [1]: https://static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3

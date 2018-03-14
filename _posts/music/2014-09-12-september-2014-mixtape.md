@@ -7,7 +7,7 @@ categories:
   - Blog
   - Music
 
-song: //static.nickwhyte.com/mixes/2014-09-12_progressive_deep_house_mix.mp3
+song: https://static.nickwhyte.com/mixes/2014-09-12_progressive_deep_house_mix.mp3
 ---
 
 A musical adventure through progressive house, deep house, dance and indie dance.
@@ -16,5 +16,5 @@ A musical adventure through progressive house, deep house, dance and indie dance
 
 {% include stream_song.html %}
 
- [1]: //static.nickwhyte.com/mixes/2014-09-12_progressive_deep_house_mix.mp3
+ [1]: https://static.nickwhyte.com/mixes/2014-09-12_progressive_deep_house_mix.mp3
 
