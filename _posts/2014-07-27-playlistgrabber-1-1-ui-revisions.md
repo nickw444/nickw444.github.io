@@ -35,13 +35,4 @@ Due to the large response to the initial release of PlaylistGrabber, I have quic
 
 I&#8217;m pretty happy with what I have achieved over the few hours I&#8217;ve worked on this project. And after all, I&#8217;ve learnt how to program for Mac OSX.
 
-#### Download
-
-~~You can download release 1.1 build 110 here:~~
-
-  * ~~[PlaylistGrabber][1] (.app, drag to your applications folder to install, run whenever you want to enumerate music on your device)~~
-
-
 You can obtain the source and self-compile [here](https://github.com/nickw444/playlist-grabber).
-
-[1]: /static/legacy/2014/07/PlaylistGrabber1.zip

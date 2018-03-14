@@ -34,7 +34,7 @@ My package contained:
   * 1x Power Distribution (Which I stupidly bought the one with the wrong plug)
 
 <div id="attachment_1410" style="width: 410px" class="wp-caption aligncenter">
-  <a href="/static/legacy/2014/IMG_0003.jpg"><img class="wp-image-1410" src="//cdn.nickwhyte.com/2014/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
+  <a href="/static/legacy/2014/IMG_0003.jpg"><img class="wp-image-1410" src="/static/legacy/2014/IMG_0003.jpg" alt="IMG_0003" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     The contents of my package, laid out
@@ -145,7 +145,7 @@ PWM.cleanup()
 To do all this magic with the software I did need to connect everything up, so here are a few images of the current set up
 
 <div id="attachment_1412" style="width: 410px" class="wp-caption aligncenter">
-  <a href="/static/legacy/2014/IMG_0005.jpg"><img class="wp-image-1412" src="//cdn.nickwhyte.com/2014/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
+  <a href="/static/legacy/2014/IMG_0005.jpg"><img class="wp-image-1412" src="/static/legacy/2014/IMG_0005.jpg" alt="IMG_0005" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Breadboarding, connecting GPIO to the ESC via an old IDE cable.
@@ -155,7 +155,7 @@ To do all this magic with the software I did need to connect everything up, so h
 &nbsp;
 
 <div id="attachment_1414" style="width: 410px" class="wp-caption aligncenter">
-  <a href="/static/legacy/2014/IMG_0007.jpg"><img class="wp-image-1414" src="//cdn.nickwhyte.com/2014/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
+  <a href="/static/legacy/2014/IMG_0007.jpg"><img class="wp-image-1414" src="/static/legacy/2014/IMG_0007.jpg" alt="IMG_0007" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     Cheap and nasty wooden frame &#8211; soon to be replaced
