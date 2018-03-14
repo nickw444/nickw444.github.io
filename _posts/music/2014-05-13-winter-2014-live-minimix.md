@@ -1,22 +1,18 @@
 ---
-title: Summer Pop/Dance Mix 2013/2014
+title: Winter 2014 Pop Dance Live Minimix
 author: nickw
 layout: post
-        
-dsq_thread_id:
-  - 2662093382
+
 categories:
   - Blog
   - Music
 
-song: //static.nickwhyte.com/mixes/Summer_Mix_2.mp3
+song: //static.nickwhyte.com/mixes/2014-05-13_winter_pop_dance_live_mix.mp3
 ---
-
-
 {% include stream_song.html %}
 
 <span style="text-decoration: underline;">Download:</span>
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //static.nickwhyte.com/mixes/Summer_Mix_2.mp3
+ [1]: //static.nickwhyte.com/mixes/2014-05-13_winter_pop_dance_live_mix.mp3

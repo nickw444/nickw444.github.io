@@ -1,19 +1,13 @@
 ---
-title: 'Mix: Spring Alt/Indie 2012'
+title: Spring 2012 Alternative/Indie Mix
 author: nickw
 layout: post
 
-
 categories:
+  - Blog
   - Music
-tags:
-  - download
-  - mix
-  - mixtape
-  - music
-  - remix
 
-song: //static.nickwhyte.com/mixes/November_Alt_Mix.mp3
+song: //static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
 ---
 <span style="text-decoration: underline;">Stream</span>
 
@@ -35,4 +29,4 @@ song: //static.nickwhyte.com/mixes/November_Alt_Mix.mp3
 
   * [Direct Download][1] (Right click, save target/link as)
 
- [1]: //static.nickwhyte.com/mixes/November_Alt_Mix.mp3
+ [1]: //static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
