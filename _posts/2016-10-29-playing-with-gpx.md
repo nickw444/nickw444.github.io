@@ -20,7 +20,7 @@ If we plot this type of failure, it looks something like this:
 
 
 <p class="text-center">
-    <img style="max-width: 450px; width:100%" src="/images/playing-with-gpx.png" alt="Map with missing data" />
+    <img style="max-width: 450px; width:100%" src="/static/posts/2016-10-29-playing-with-gpx/playing-with-gpx.png" alt="Map with missing data" />
 </p>
 
 
@@ -79,7 +79,7 @@ After exporting the data set, we achieve a map that looks like:
 
 
 <p class="text-center">
-    <img style="max-width: 450px; width:100%" src="/images/playing-with-gpx-fixed-map.png" alt="Map with resolved data" />
+    <img style="max-width: 450px; width:100%" src="/static/posts/2016-10-29-playing-with-gpx/playing-with-gpx-fixed-map.png" alt="Map with resolved data" />
 </p>
 
 

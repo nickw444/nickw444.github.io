@@ -10,7 +10,7 @@ categories:
 
 I've been doing a fair bit of DIY home automation hacking lately across many different devices - mostly interested in adding DIY homekit integrations. A couple of months ago, my dad purchased a bulk order of [RAEX 433MHz RF motorised blinds](http://www.raexmotor.com/index.php?m=content&c=index&a=show&catid=9&id=23) to install around the house, replacing our existing manual roller blinds.
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/IMG_8745_crop.jpg" alt="RAEX Motorised Blind" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/IMG_8745_crop.jpg" alt="RAEX Motorised Blind" %}
 
 <small>Note: These blinds are the same model sold at Spotlight under the name [Motion Motorised Roller Blind
 ](https://www.spotlightstores.com/curtains-blinds/indoor-blinds/roller-blinds/motion-motorised-roller-blind/p/BP80360543)</small>
@@ -19,11 +19,11 @@ The blinds are a fantastic addition to the house, and allow me to be super lazy 
 
 <div style="display: flex; align-items: center; margin:20px 0">
   <div style="text-align: center;">
-    <a href="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_r.jpg"><img width="70%" src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_r.jpg" alt="R Type Remote" /></a>
+    <a href="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_r.jpg"><img width="70%" src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_r.jpg" alt="R Type Remote" /></a>
     <p><code>R</code> Type Remote (YRL2016)</p>
   </div>
   <div style="text-align: center;">
-    <a href="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_x.jpg"><img width="70%" src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_x.jpg" alt="X Type Remote" /></a>
+    <a href="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_x.jpg"><img width="70%" src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote_x.jpg" alt="X Type Remote" /></a>
     <p><code>X</code> Type Remote (YR3144)</p>
   </div>
 </div>
@@ -34,10 +34,10 @@ An alternate solution to using the RAEX remotes is to use a piece of hardware ca
 
 <div style="display: flex; align-items: center; margin: 20px 0">
   <div style="text-align: center;">
-    <a href="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_home.jpg"><img width="70%" src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_home.jpg" alt="RM Pro Home Screen" /></a>
+    <a href="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_home.jpg"><img width="70%" src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_home.jpg" alt="RM Pro Home Screen" /></a>
   </div>
   <div style="text-align: center;">
-    <a href="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_blind.jpg"><img width="70%" src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_blind.jpg" alt="RM Pro Blind Control Screen" /></a>
+    <a href="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_blind.jpg"><img width="70%" src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rmpro_blind.jpg" alt="RM Pro Blind Control Screen" /></a>
   </div>
 </div>
 
@@ -54,8 +54,8 @@ I attempted option 1 for a little while, but ruled it out as I was unable to int
 I purchased a 433MHz transmitter/receiver pair for Arduino on [Ebay](http://www.ebay.com.au/itm/433Mhz-RF-transmitter-receiver-link-kit-for-Arduino-Free-Postage-/302377132217?). In case that link stops working, try searching Ebay for _433Mhz RF transmitter receiver link kit for Arduino_.
 
 <div class="text-center">
-  <a href="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rf-transmitter-receiver.jpg">
-      <img src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rf-transmitter-receiver.jpg" width="50%" alt="RF Transmitter / Receiver" />
+  <a href="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rf-transmitter-receiver.jpg">
+      <img src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/rf-transmitter-receiver.jpg" width="50%" alt="RF Transmitter / Receiver" />
   </a>
 </div>
 
@@ -68,7 +68,7 @@ A handful of Google searches didn't yield many results for finding a technical s
 - Emailed RAEX to obtain technical specification; they would not release without confidentiality agreement.
 - I did find that [RFXTRX](http://www.rfxcom.com/) was able to control the blind via their BlindsT4 mode, which appears to also work for _Outlook Motion Blinds_.
 - After opening one of the remotes and identifying the micro-controllers in use, I was unable to find any documentation explaining a generic RF encoding scheme being used.
-- It _may_ have been possible to reverse engineer the firmware on a remote by taking an I2C [dump of the ROM chip](/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote-pcb.jpg). It seems similar remotes [allow dumping at any point after boot](http://travisgoodspeed.blogspot.co.uk/2010/07/reversing-rf-clicker.html)
+- It _may_ have been possible to reverse engineer the firmware on a remote by taking an I2C [dump of the ROM chip](/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/remote-pcb.jpg). It seems similar remotes [allow dumping at any point after boot](http://travisgoodspeed.blogspot.co.uk/2010/07/reversing-rf-clicker.html)
 
 ### Capturing the data
 
@@ -78,9 +78,9 @@ Once I captured what I deemed to be enough data, I began [analysing it](https://
 
 I did [some](http://mightydevices.com/?p=300) [further](http://rayshobby.net/?p=3381) [reading](http://rayshobby.net/interface-with-remote-power-sockets-final-version/) and read a few RF reverse engineering write-ups. A lot of them experimented with the idea of using Audacity to capture the signal via the receiver plugged into the microphone port of the computer. I thought, why not, and began working on this.
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/capturing-rig.jpg" alt="The RF capturing setup" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/capturing-rig.jpg" alt="The RF capturing setup" %}
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/audacity1.png" alt="Audacity capture" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/audacity1.png" alt="Audacity capture" %}
 
 This captures _a lot_ of data. I captured 4 different `R` type remotes, along with 2 different `X` type remotes, and to make things even more fun, 8 different devices pairings from the Broadlink RM Pro (`B` type).
 
@@ -91,11 +91,11 @@ From this, I was able to determine a few things
 
 Zooming into the waveform, we can see the different parts of a captured transmission. This example below is the capture of Remote 1, Channel 1, for the **pairing** action:
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/r1c1pairing1.png" alt="R1, CH1 PAIR capture" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/r1c1pairing1.png" alt="R1, CH1 PAIR capture" %}
 
 Zooming in:
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/r1c1pairing2.png" alt="Zoomed R1, CH1 PAIR capture" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/r1c1pairing2.png" alt="Zoomed R1, CH1 PAIR capture" %}
 
 In the zoomed image you can see that the transmission begins with a oscillating `0101` AGC pattern, followed by a further double width preamble pattern, followed by a longer header pattern, and then by data.
 
@@ -162,11 +162,11 @@ I still needed more data, but I had way too many captures to decode by hand. In 
 
 Once verified, I tabulated this data and inserted it into my spreadsheet for further processing. Unfortunately there was too many bits per capture to keep myself sane:
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-raw-captures.png" alt="Raw captures inside a spreadsheet" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-raw-captures.png" alt="Raw captures inside a spreadsheet" %}
 
 I decided it would be best if I decoded this as manchester. To do this, I [wrote a script](https://github.com/nickw444/homekit/blob/master/blindkit/rf-process/tabulate.py) that processes the raw capture data into manchester (or other encoding types). Migrating this data into my spreadsheet, it begins to make a lot more sense.
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-manchester-1.png" alt="Manchester captures inside a spreadsheet" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-manchester-1.png" alt="Manchester captures inside a spreadsheet" %}
 
 Looking at this data we can immediately see some relationship between the bits and their purpose:
 
@@ -181,11 +181,11 @@ Looking at this data we can immediately see some relationship between the bits a
 
 After some further investigation, I determined that for the same remote and channel, for each different action, the `F(A, C)` increased by 1. (if you consider the bits to be big-endian.).
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-manchester-2.png" alt="Encoded value increasing per different action" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-manchester-2.png" alt="Encoded value increasing per different action" %}
 
 Looking a bit more into this, I also determined that for adjacent channels, the bits associated with `C` (Channel) count upwards/backwards (X type remotes count upwards, R type remotes count backward). Additionally `F(C)` also increases/decreases together. Pay attention to the `C` column.
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-manchester-3.png" alt="Encoded value increasing with adjacent channels" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-manchester-3.png" alt="Encoded value increasing with adjacent channels" %}
 
 From this, I can confirm a relationship between `F(A, C)` and `C`, such that `F(A, C) = F(PAIR, C0) == F(PAIR, C1) ± 1`. After this discovery, I also determine that there's another mathematical relationship between `F(A, C)` and `A` (Action).
 
@@ -211,21 +211,21 @@ F(ACTION_PAIR, CH0) == G(F(ACTION_PAIR, CH0))
 
 However, looking at all Channel 0's PAIR captures, the checksum still appeared to be totally jumbled/random:
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-jumbled-checksum.png" alt="Identical channels / action jumbled checksums" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-jumbled-checksum.png" alt="Identical channels / action jumbled checksums" %}
 
 Whilst looking at this data, however, another pattern stands out. `G(F(A))` sits an entire byte offset (8 bits) away from `F(A)`. Additionally the first 2 bits of `F(A, C)` sit at the byte boundary and also align with `A` (Action). As Action increases, so does `F(A, C)`. Lets line up all the bits at their byte boundaries and see what prevails:
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-byte-boundaries-1.png" alt="Identified Boundaries" caption="Colours denoting byte boundaries" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-byte-boundaries-1.png" alt="Identified Boundaries" caption="Colours denoting byte boundaries" %}
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-byte-boundaries-2.png" alt="Aligned byte boundaries" caption="Aligned boundaries" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-byte-boundaries-2.png" alt="Aligned byte boundaries" caption="Aligned boundaries" %}
 
 From here, we need to determine some function that produces the known checksum based on the first 4 bytes. Initially I try to do XOR across the bytes:
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-checksum-xor.png" alt="Attempt to find checksum function via XOR" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-checksum-xor.png" alt="Attempt to find checksum function via XOR" %}
 
 Not so successful. The output appears random and XOR'ing the output with the checksum does not produce a constant key. Therefore, I deduce the checksum isn't produced via XOR. How about mathematical addition? We've already seen some addition/subtraction relationship above.
 
-  {% include linked-img.html src="/images/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-checksum-addition.png" alt="Attempt to find checksum function via addition" %}
+  {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/findings-checksum-addition.png" alt="Attempt to find checksum function via addition" %}
 
 This appeared to be more promising - there was a constant difference between channels for identical type remotes. Could this constant be different across different type remotes because my generation program had a bug? Were we not wrapping the correct number of bits or using the wrong byte boundaries when mutating the channel or checksum?
 

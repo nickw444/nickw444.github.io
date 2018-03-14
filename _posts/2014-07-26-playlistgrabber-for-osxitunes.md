@@ -23,7 +23,7 @@ Eventually I will tidy up the application, however at this present time, I do no
   * Wifi Sync (With a client app on the phone)
   * Better Async Handling so the program doesn&#8217;t appear to &#8220;Lock Up&#8221;
 
-<del>If you want to download this and try it out, feel free to: <a href="http://cdn.nickwhyte.com/static/2014/07/PlaylistGrabber.zip">PlaylistGrabber</a>.</del> If you come across any bugs or have any suggestions, let me know, it&#8217;ll be nice to track them in the future for new releases in summer this year.
+<del>If you want to download this and try it out, feel free to: <a href="/static/legacy/2014/07/PlaylistGrabber.zip">PlaylistGrabber</a>.</del> If you come across any bugs or have any suggestions, let me know, it&#8217;ll be nice to track them in the future for new releases in summer this year.
 
 [Latest version is available here][2]
 

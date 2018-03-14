@@ -44,4 +44,4 @@ I&#8217;m pretty happy with what I have achieved over the few hours I&#8217;ve w
 
 You can obtain the source and self-compile [here](https://github.com/nickw444/playlist-grabber).
 
-[1]: http://cdn.nickwhyte.com/static/2014/07/PlaylistGrabber1.zip
+[1]: /static/legacy/2014/07/PlaylistGrabber1.zip

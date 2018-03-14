@@ -12,12 +12,12 @@ It&#8217;s almost done! Here&#8217;s some pre-release screenshots of the app (V1
 
 
 <p>
-    <img src="//cdn.nickwhyte.com/2013/IMG_0049.PNG" class="img-responsive center-block" />
+    <img src="/static/legacy/2013/IMG_0049.PNG" class="img-responsive center-block" />
 </p>
 <p>
-    <img src="//cdn.nickwhyte.com/2013/IMG_0052.PNG" class="img-responsive center-block" />
+    <img src="/static/legacy/2013/IMG_0052.PNG" class="img-responsive center-block" />
 </p>
 <p>
-    <img src="//cdn.nickwhyte.com/2013/IMG_0057.PNG" class="img-responsive center-block" />
+    <img src="/static/legacy/2013/IMG_0057.PNG" class="img-responsive center-block" />
 </p>
 

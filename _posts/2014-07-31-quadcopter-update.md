@@ -14,7 +14,7 @@ It&#8217;s been a while since my last quadcopter post &#8211; mainly because i&#
 The day that I left for the UK, the new frame that I ordered for the quad arrived.  Every time I upgrade to a new frame, the quad seems to shrink in size.
 
 <div class="pull-right">
-    <img src="//cdn.nickwhyte.com/2014/2014-07-31-14.06.49.jpg" width="210" />
+    <img src="/static/legacy/2014/2014-07-31-14.06.49.jpg" width="210" />
 </div>
 
 This new frame has quite a small wingspan, resulting in a downsize in propellors to a smaller 5&#8243; diameter. It does however have a much lower weight footprint. Weighing in at only 58g, it&#8217;s 20g lighter than the old frame and has much more room for cable management and a nice place underneath (which I&#8217;ve modified) to hold the battery safely during flight.
