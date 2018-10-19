@@ -12,8 +12,7 @@ I've been doing a fair bit of DIY home automation hacking lately across many dif
 
   {% include linked-img.html src="/static/posts/2017-07-15-reversing-433mhz-raex-motorised-rf-blinds/IMG_8745_crop.jpg" alt="RAEX Motorised Blind" %}
 
-<small>Note: These blinds are the same model sold at Spotlight under the name [Motion Motorised Roller Blind
-](https://www.spotlightstores.com/curtains-blinds/indoor-blinds/roller-blinds/motion-motorised-roller-blind/p/BP80360543)</small>
+<small>Note: If you are based in Australia, you can purchase these in bulk or individually via [www.raexaustralia.com](https://www.raexaustralia.com?utm_source=nickwhyte.com&utm_medium=post&utm_content=433mhz-reversing) (Full disclosure – my father runs the site).</small>
 
 The blinds are a fantastic addition to the house, and allow me to be super lazy opening/closing my windows, however in order to control them you need to purchase the RAEX brand remotes. RAEX manufacture many different types of remotes, of which, I have access to two of the types, depicted below:
 
@@ -313,3 +312,5 @@ There you have it, that's how I reverse engineered an unknown protocol. I plan t
 From here I'm going to need to build my transmitter to transmit my new, generated codes and build an interface into homekit for this via my [homebridge](https://github.com/nickw444/homekit/tree/master/bridges/mainbridge) program.
 
 You can view all the work related to this project in the [nickw444/homekit/blindkit](https://github.com/nickw444/homekit/tree/master/blindkit) repo.
+
+As mentioned above, if you are based in Australia, you can purchase these blinds and associated accessories in bulk or individually via [www.raexaustralia.com](https://www.raexaustralia.com?utm_source=nickwhyte.com&utm_medium=post&utm_content=433mhz-reversing) (Full disclosure – my father runs the site)
