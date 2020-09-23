@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>History Push Demo</title>
+</head>
+<body>
+    <p>This demo shows how it might be possible to intercept browser back history event by pushing a dummy client-side history state. It allows us to display a prompt to confirm the user's intent without blocking their exit experience.</p>
+    <p>There are some edge-cases, for example, if the page is the first page the user visits (i.e no previous history, then the back button is shown as clickable, when there is no actual state to return to). This edge case is handled by introspecting <code>window.history.length</code> to conditionally pushing the dummy page - This can be demoed by opening <a href="#">this page</a> in a new tab</p>
+    <p>Additionally, if the user clicks back whilst the prompt is shown, we cannot intercept that. This edge case is handled by deferring to the browser provided prompt in this case though.</p>
+    <p>Give it a try - <strong>click your browser back button</strong></p>
+    <hr />
+    <div>
+        <div>Has unsaved changes: <span id="statusIndicator"></span></div>
+        <button id="unsavedChangesButton">Dummy "Unsaved Changes"</button>
+    </div>
+
+    <div id="leaveConfirmPrompt" style="display: none">
+        <h1>Are you sure you want to leave?</h1>
+        <div>
+            <button id="leaveConfirmButton">Yes</button>
+            <button id="leaveRejectButton">No</button>
+        </div>
+    </div>
+    <script type="text/javascript">
+        (() => {
+            const leaveConfirmButtonEl = document.getElementById('leaveConfirmButton');
+            const leaveRejectButtonEl = document.getElementById('leaveRejectButton');
+            const leaveConfirmPromptEl = document.getElementById('leaveConfirmPrompt');
+            const unsavedChangesButtonEl = document.getElementById('unsavedChangesButton');
+            const statusIndicatorEl = document.getElementById('statusIndicator');
+
+            let canUnload = false;
+            let hasUnsavedChanges = false;
+
+            console.log(window.history)
+
+            function maybePushDummyHistory() {
+                if (window.history.length <= 1) {
+                    return;
+                }
+
+                if (!window.history.state || !window.history.state.dummy) {
+                    console.log("Pushing Dummy Entry!")
+                    history.pushState({ dummy: true }, document.title)
+                }
+            }
+
+            leaveRejectButtonEl.addEventListener('click', () => {
+                maybePushDummyHistory();
+                leaveConfirmPromptEl.style.display = 'none';
+            });
+
+            leaveConfirmButtonEl.addEventListener('click', () => {
+                canUnload = true;
+                window.history.back();
+            });
+
+            unsavedChangesButtonEl.addEventListener('click', () => {
+                hasUnsavedChanges = true;
+                maybePushDummyHistory();
+                renderStatus();
+            })
+
+            function renderStatus() {
+                statusIndicatorEl.textContent = JSON.stringify(hasUnsavedChanges);
+            }
+
+            window.addEventListener('popstate', (e) => {
+                console.log('onPopState', e)
+                console.log(window.history.state)
+                leaveConfirmPromptEl.style.display = 'block';
+            })
+
+            window.addEventListener("beforeunload", (e) => {
+                if (!canUnload) {
+                    e.preventDefault();
+                    e.returnValue = '';
+                }
+            });
+
+            renderStatus();
+        })();
+    </script>
+</body>
+</html>
