@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Magic Link Hack Demo</title>
+</head>
+<body>
+    <h1>Signup Email Verification Link Demo</h1>
+    <p>This is a demo of cross-tab communication for the purposes of passing back a verification code to the signup flow</p>
+    <p>It works by using local storage to communicate between tabs. It works under the assumption that the user uses the same browser to sign up and verify, which is likely not the case on mobile devices</p>
+    <hr>
+
+
+    <h2>One more step!</h2>
+    <p>Enter your verification code to finish signing up.</p>
+    <p><a href="email.html" target="_blank">Check your email</a> then enter the code below</p>
+    <form>
+        <input id="verificationCodeInput" type="text" />
+        <button id="submitButton" disabled>Submit</button>
+    </form>
+
+    <script type="text/javascript">
+        localStorage.removeItem('loginVerificationCode');
+        localStorage.removeItem('loginVerificationCodeAck');
+
+        const verificationCodeInputEl = document.getElementById('verificationCodeInput');
+        const submitButtonEl = document.getElementById('submitButton');
+
+        verificationCodeInputEl.value = '';
+
+        const pollTimer = window.setInterval(() => {
+            const verificationCode = window.localStorage.getItem('loginVerificationCode');
+            if (verificationCode) {
+                verificationCodeInputEl.value = verificationCode;
+                submitButtonEl.removeAttribute('disabled');
+                window.clearInterval(pollTimer);
+
+                window.localStorage.setItem('loginVerificationCodeAck', true);
+            }
+        }, 100);
+        // window.addEventListener('storage', function(e){
+        //     console.log(e.storageArea);
+        // }, false);
+    </script>
+</body>
+</html>
+

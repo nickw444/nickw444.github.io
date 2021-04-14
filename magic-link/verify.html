@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Verify</title>
+</head>
+<body>
+    <span id="status">Sending...</span>
+
+    <script type="text/javascript">
+        const statusEl = document.getElementById('status');
+
+        localStorage.removeItem('loginVerificationCode');
+        localStorage.removeItem('loginVerificationCodeAck');
+
+
+        localStorage.setItem('loginVerificationCode', '123456');
+        const int = window.setInterval(() => {
+            const ack = localStorage.getItem('loginVerificationCodeAck');
+            if (ack) {
+                localStorage.removeItem('loginVerificationCode');
+                localStorage.removeItem('loginVerificationCodeAck');
+                statusEl.innerText = 'Success. You can close this window.'
+                window.clearInterval(ack);
+            }
+        }, 100);
+
+    </script>
+</body>
+</html>
