@@ -6,12 +6,11 @@ layout: post
 categories:
   - Blog
   - Music
-
-song: https://static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
 ---
+
 <span style="text-decoration: underline;">Stream</span>
 
-{% include stream_song.html %}
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fnicholas-whyte%2Fnovember-2012-indie-alt-mix-2012-11-24%2F" frameborder="0" ></iframe>
 
 <span style="text-decoration: underline;">Tracklist</span>
 
@@ -24,9 +23,3 @@ song: https://static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3
   7. Crystalised (Cheese Bootleg) &#8211; The XX
   8. Something Good Can Work (RAC Remix) &#8211; Two Door Cinema Club
   9. Little Talks (Jumpsox Bootleg) &#8211; Of Monsters And Men
-
-<span style="text-decoration: underline;">Download:</span>
-
-  * [Direct Download][1] (Right click, save target/link as)
-
- [1]: https://static.nickwhyte.com/mixes/2012-11-24_november_indie_alt_mix.mp3

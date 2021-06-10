@@ -6,15 +6,6 @@ layout: post
 categories:
   - Blog
   - Music
-
-song: https://static.nickwhyte.com/mixes/2014-04-15_summer_pop_mix.mp3
 ---
 
-
-{% include stream_song.html %}
-
-<span style="text-decoration: underline;">Download:</span>
-
-  * [Direct Download][1] (Right click, save target/link as)
-
- [1]: https://static.nickwhyte.com/mixes/2014-04-15_summer_pop_mix.mp3
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fnicholas-whyte%2Fmainstream-summer-mix-2014%2F" frameborder="0" ></iframe>

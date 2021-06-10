@@ -6,15 +6,8 @@ layout: post
 categories:
   - Blog
   - Music
-
-song: https://static.nickwhyte.com/mixes/2014-09-12_progressive_deep_house_mix.mp3
 ---
 
 A musical adventure through progressive house, deep house, dance and indie dance.
 
-[Download Here (Right click, save link/target as)][1] 
-
-{% include stream_song.html %}
-
- [1]: https://static.nickwhyte.com/mixes/2014-09-12_progressive_deep_house_mix.mp3
-
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fnicholas-whyte%2Fprogressivedeep-house-mixtape-2014-09-12%2F" frameborder="0" ></iframe>

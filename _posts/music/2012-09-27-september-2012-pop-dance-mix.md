@@ -6,14 +6,6 @@ layout: post
 categories:
   - Blog
   - Music
-
-song: https://static.nickwhyte.com/mixes/2012-09-27_september_party_dance_mix.mp3
 ---
 
-{% include stream_song.html %}
-
-<span style="text-decoration: underline;">Download:</span>
-
-  * [Direct Download][1] (Right click, save target/link as)
-
- [1]: https://static.nickwhyte.com/mixes/2012-09-27_september_party_dance_mix.mp3
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fnicholas-whyte%2Fseptember-2012-party-dance-mix-2012-09-27%2F" frameborder="0" ></iframe>
