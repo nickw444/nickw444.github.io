@@ -5,9 +5,15 @@ layout: post
 
 categories:
 - Blog
+
+social_image: /static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2585.jpeg
 ---
 
-Last year I purchased myself an Ender 3 V2 3D Printer. It was a logical purchase, to compliment my home automation hobby, allowing me to design and print custom enclosures for miscellaneous ESPHome and Zigbee nodes.
+
+<p>
+    <img class="img-responsive alignright" width="40%" src="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2585.jpeg" />
+    Last year I purchased myself an Ender 3 V2 3D Printer. It was a logical purchase, to compliment my home automation hobby, allowing me to design and print custom enclosures for miscellaneous ESPHome and Zigbee nodes.
+</p>
 
 It turns out having a [CoreXY](https://all3dp.com/2/corexy-3d-printer-is-it-worth-buying/) 3D printer allows you to do more than just 3D printing if you're willing to get creative. For example, adding on a [laser engraver](https://all3dp.com/2/ender-3-laser-engraver-upgrade-all-you-need-to-know/). 
 
@@ -73,14 +79,14 @@ Now, with some G-code produced, it was time for a test. As a software engineer, 
 Great success! From here, I did some further tests on fabric and found it worked just fine, albeit a little faint since more pen pressure resulted in snagging the fabric, so for fabric prints 2 or 3 passes is generally necessary. Beyond just plotting SVGs I've started to explore generative art using mathematical functions ([like a spirograph](https://github.com/asharkinwater/spirograph-)). Here are a few pictures from testing and a video:
 
 <div class="row">
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-6">
             <p>
                 <a target="_blank" href="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2573.jpeg">
                     <img class="img-responsive center-block" src="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2573.jpeg" />
                 </a>
             </p>
     </div>
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-6">
             <p>
                 <a target="_blank" href="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2575.jpeg">
                     <img class="img-responsive center-block" src="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2575.jpeg" />
@@ -89,14 +95,14 @@ Great success! From here, I did some further tests on fabric and found it worked
     </div>
 </div>
 <div class="row">
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-6">
             <p>
                 <a target="_blank" href="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2602.jpeg">
                     <img class="img-responsive center-block" src="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2602.jpeg" />
                 </a>
             </p>
     </div>
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-6">
             <p>
                 <a target="_blank" href="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2616.jpeg">
                     <img class="img-responsive center-block" src="/static/posts/2022-04-25-ender-3-v2-pen-plotter/IMG_2616.jpeg" />
