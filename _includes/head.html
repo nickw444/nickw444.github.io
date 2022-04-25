@@ -17,7 +17,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="google-site-verification" content="bb2q1CzZpW4fJosteb18nss_Pw2q2hDD3KwRdiXtJpE" />
   {% if page.social_image -%}
-  <meta property="og:image" content="{{ page.social_image }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.social_image }}" />
   {% endif -%}
   <link rel="stylesheet" href="{{ "/vendor/bootstrap/css/bootstrap.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/onedark.css" | prepend: site.baseurl }}">
